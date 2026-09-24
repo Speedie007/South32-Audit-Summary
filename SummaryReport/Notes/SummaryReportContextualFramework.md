@@ -397,3 +397,17 @@ A system-level trend or implication may be valid even where it is not explicitly
 - it is clearly presented as holistic interpretation rather than a direct source finding.
 
 This is particularly relevant to the three Cable Belt Sheave reports, where individually granular findings may collectively reveal a broader trend across the cable belt sheave ecosystem.
+
+
+### Accepted Context — Uncertainty and Professional Judgement
+
+Where evidence does not support absolute certainty, the report should use qualified wording such as:
+
+- `indicates`;
+- `suggests`;
+- `is consistent with`;
+- `is likely associated with`.
+
+Where appropriate, the report should also identify the need for further inspection, measurement, testing, or engineering verification.
+
+The strength of the wording should therefore match the strength of the available evidence, avoiding overstatement while still allowing reasoned professional interpretation.
