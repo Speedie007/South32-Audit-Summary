@@ -75,3 +75,4 @@ Question 1 has been recorded and answered.
 | Q2 | [Question 2 - Rope Path Geometry and Accelerated Wear Mechanism.md](./Question%202%20-%20Rope%20Path%20Geometry%20and%20Accelerated%20Wear%20Mechanism.md) | Answered |
 | Q3 | [Question 3 - Strength of Accelerated Rope Wear Conclusion.md](./Question%203%20-%20Strength%20of%20Accelerated%20Rope%20Wear%20Conclusion.md) | Answered |
 | Q4 | [Question 4 - Main Drive Alignment Context.md](./Question%204%20-%20Main%20Drive%20Alignment%20Context.md) | Answered |
+| Q5 | [Question 5 - Main Drive Remedial Philosophy.md](./Question%205%20-%20Main%20Drive%20Remedial%20Philosophy.md) | Answered |
