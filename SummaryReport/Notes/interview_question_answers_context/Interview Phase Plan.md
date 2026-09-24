@@ -26,7 +26,7 @@ After the foundation is closed, separate contextual interview rounds will be con
 
 ### A. Main Shaft Head Sheaves
 
-**Status: OPEN**
+**Status: CLOSED AND CONSOLIDATED**
 
 Historical interview context is stored under:
 
@@ -34,7 +34,11 @@ Historical interview context is stored under:
 
 The interview will establish contextual meaning of findings, interpretation, implications, remedial actions, remedial philosophy, sequencing, emphasis, and what should remain in the detailed source report.
 
-Each question is recorded individually from the start. When the round closes, it will be consolidated into a dedicated section context file that references the original question records.
+Questions 1–3 were recorded individually and consolidated into:
+
+`SummaryReport/Notes/Main Shaft Head Sheaves - Contextual Interpretation Consolidation.md`
+
+The consolidation is the primary section context, with the original Q1–Q3 records preserved as the historical fallback source.
 
 ### B. Cable Belt Sheaves
 The interview will establish collective system-level interpretation, relationships between inspected sheave groups, implications, remedial actions, remedial philosophy, implementation order, and forward strategy.
