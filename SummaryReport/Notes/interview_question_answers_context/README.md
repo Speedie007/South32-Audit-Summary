@@ -24,9 +24,19 @@ This detailed record is maintained to minimize contextual drift and prevent impo
 - The consolidated round files become progressively higher-level context records, while the individual files remain the authoritative interview history.
 - The main `SummaryReportContextualFramework.md` should contain the current accepted framework and reference the detailed/intermediate context where appropriate.
 
+## Interview Phase Structure
+
+The interview is organized into three major phases:
+
+1. **Phase 1 — Report Contextual Foundation**
+2. **Phase 2 — Section-Specific Contextual Interpretation**
+3. **Phase 3 — Holistic Remedial Integration**
+
+See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed structure.
+
 ## Current Round
 
-**Round 1 — Report Purpose, Audience, Structure, and Interpretation Framework**
+**Phase 1 / Foundation Round — Report Contextual Foundation**
 
 | Question | Context File | Status |
 | --- | --- | --- |
@@ -37,4 +47,10 @@ This detailed record is maintained to minimize contextual drift and prevent impo
 
 ## Round Consolidation
 
-A Round 1 consolidated context file will be created when the current interview round is formally closed.
+The current foundation round will remain open through **Question N** until the required background context has been established.
+
+When closed, the foundation questions will be consolidated into:
+
+`Report Contextual Foundation - Background Context Consolidation.md`
+
+That file will become the authoritative background context for all later section-specific interview rounds.
