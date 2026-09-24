@@ -53,7 +53,7 @@ A pre-interview source review note is stored alongside this README.
 
 ## Status
 
-**Section-specific interview round: OPEN — Questions 1–2 complete**
+**Section-specific interview round: OPEN — Questions 1–3 complete**
 
 
 ## Pre-Interview User Overview
@@ -71,3 +71,4 @@ This overview is governing context for the targeted Product Spillage interview q
 | --- | --- | --- |
 | Q1 | [Question 1 - Baseline Summary Structure.md](./Question%201%20-%20Baseline%20Summary%20Structure.md) | Answered |
 | Q2 | [Question 2 - Full Inspection Matrix Scope and Fields.md](./Question%202%20-%20Full%20Inspection%20Matrix%20Scope%20and%20Fields.md) | Answered |
+| Q3 | [Question 3 - CV09 Fines Control System Rollout Philosophy.md](./Question%203%20-%20CV09%20Fines%20Control%20System%20Rollout%20Philosophy.md) | Answered |
