@@ -51,6 +51,7 @@ See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed struc
 | Q9 | [Question 9 - Uncertainty and Professional Judgement.md](./Question%209%20-%20Uncertainty%20and%20Professional%20Judgement.md) | Answered |
 | Q10 | [Question 10 - Priority and Remedial Sequencing.md](./Question%2010%20-%20Priority%20and%20Remedial%20Sequencing.md) | Answered |
 | Q11 | [Question 11 - Reader Familiarity and Source Report Referencing.md](./Question%2011%20-%20Reader%20Familiarity%20and%20Source%20Report%20Referencing.md) | Answered |
+| Q12 | [Question 12 - Writing Style and Narrative Flow.md](./Question%2012%20-%20Writing%20Style%20and%20Narrative%20Flow.md) | Answered |
 
 ## Round Consolidation
 
