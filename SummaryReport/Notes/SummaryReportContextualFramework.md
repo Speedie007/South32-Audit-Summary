@@ -324,3 +324,18 @@ The final report must distinguish between:
 - interpretation derived from those circumstances.
 
 Unverified contextual drivers should be expressed with qualified language and must not be attributed to South32 as formal commissioning intent unless supported by documentary evidence.
+
+
+### Accepted Context — ISS Deliverables and Scope Boundaries
+
+ISS's scope differed by audited area:
+
+- **Main Shaft Head Sheaves:** inspect and record condition, and advise whether the equipment could remain in service.
+- **Cable Belt Sheaves:** inspect and record condition; diagnose probable causes; assess severity/risk; recommend remedial actions; define repair methodology at a conceptual/advisory level; advise on continued serviceability; and provide an independent technical opinion.
+- **Product Spillage:** inspect and record condition/circumstances; diagnose probable causes; recommend remedial actions; define remediation methodology at a conceptual/advisory level; and provide an independent technical opinion.
+
+Across all three areas, ISS was not expected to provide detailed engineering design, final repair drawings, issued-for-construction documentation, or implementation supervision.
+
+Any technical drawings included in the source reports were conceptual aids used to support explanation of findings or recommendations. They were not to scale and were not intended to function as final technical specifications, fabrication drawings, construction drawings, or implementation-ready design documents.
+
+The final summary report must preserve the distinction between **technical advisory/remedial concepts** and **detailed engineered solutions**.
