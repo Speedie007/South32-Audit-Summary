@@ -529,3 +529,16 @@ By the end of the summary report, the reader should understand:
 7. how South32 can use the findings to support maintenance and project planning going forward, where applicable.
 
 These elements should be applied selectively rather than mechanically. Not every section is required to address every item if it is not technically relevant.
+
+
+### Accepted Context — Section Detail and Narrative Depth
+
+Each major audited area should default to a **short high-level overview**, generally a few paragraphs.
+
+Where additional explanation would materially improve the summary report, the section may expand into:
+- a moderately detailed narrative;
+- additional subsections;
+- selected supporting examples;
+- selective tables or figures where they add genuine value.
+
+The three major sections do not need to be equal in length. Narrative depth should be determined by the complexity and interpretive value of the material rather than by formatting symmetry.
