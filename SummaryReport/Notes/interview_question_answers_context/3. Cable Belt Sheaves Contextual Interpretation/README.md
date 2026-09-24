@@ -80,3 +80,4 @@ Question 1 has been recorded and answered.
 | Q7 | [Question 7 - Upper Gantry Summary Treatment.md](./Question%207%20-%20Upper%20Gantry%20Summary%20Treatment.md) | Answered |
 | Q8 | [Question 8 - Angle Station Proof of Concept Rollout Strategy.md](./Question%208%20-%20Angle%20Station%20Proof%20of%20Concept%20Rollout%20Strategy.md) | Answered |
 | Q9 | [Question 9 - Overall Cable Belt Management Conclusion.md](./Question%209%20-%20Overall%20Cable%20Belt%20Management%20Conclusion.md) | Draft conclusion accepted |
+| Q10 | [Question 10 - Use of Formal Classifications in Summary.md](./Question%2010%20-%20Use%20of%20Formal%20Classifications%20in%20Summary.md) | Answered |
