@@ -578,3 +578,32 @@ Accepted summary position:
 - do not overdevelop this section merely to match the complexity of other audit sections.
 
 This section should remain short, factual, technically accurate, and management-level.
+
+
+## Section-Specific Accepted Context — Cable Belt Sheaves
+
+Status: **CLOSED AND CONSOLIDATED**
+
+Authoritative section context:
+
+`SummaryReport/Notes/Cable Belt Sheaves - Contextual Interpretation Consolidation.md`
+
+Historical interview source:
+
+`SummaryReport/Notes/interview_question_answers_context/3. Cable Belt Sheaves Contextual Interpretation/`
+
+Accepted summary position:
+
+- present the Cable Belt findings as one system-level narrative with three supporting subsections: Main Drive, Angle Station, and Upper Gantry;
+- preserve the local technical independence of those subsections rather than merging similar wear mechanisms into one causal statement;
+- treat the Angle Station as a significant coupled rope-path geometry / groove-wear / rope-wear / bearing-loading problem;
+- describe the Angle Station geometry as a significant contributing mechanism and a principal contributor to accelerated Cable Belt rope wear, without claiming it is the sole cause;
+- include the bearing-loading consequence of the off-centre rope line of action, but do not claim fleet angle is the proven sole cause of an individual bearing failure;
+- for the Angle Station, emphasize correction of the underlying rope path and retain the controlled proof-of-concept option before wider rollout;
+- treat the Main Drive independently, with emphasis on physical alignment / rope-path geometry, quantitative verification, coordinated geometry correction and renewal of worn rope-contact components;
+- keep the Upper Gantry subsection concise: presently serviceable, no immediate major remedial intervention, with monitoring/trending and closer observation of front-sheave groove-base scoring;
+- give greater management emphasis to Angle Station and Main Drive than to Upper Gantry;
+- keep the summary narrative and interpretive, using formal condition/severity/priority classifications only where they add material management value;
+- direct readers to the detailed reports for measurements, classifications, action registers, photographs, detailed drawings and implementation-level requirements.
+
+The accepted overall Cable Belt management conclusion remains draft report wording and may be refined later for flow and integration, provided its technical meaning is preserved.
