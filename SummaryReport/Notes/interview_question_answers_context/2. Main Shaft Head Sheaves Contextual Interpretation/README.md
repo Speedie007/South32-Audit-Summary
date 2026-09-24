@@ -43,3 +43,4 @@ Question 1 has been recorded and answered.
 | Question | Context File | Status |
 | --- | --- | --- |
 | Q1 | [Question 1 - Core Management Message.md](./Question%201%20-%20Core%20Management%20Message.md) | Answered |
+| Q2 | [Question 2 - Collective Versus Individual Presentation.md](./Question%202%20-%20Collective%20Versus%20Individual%20Presentation.md) | Answered |
