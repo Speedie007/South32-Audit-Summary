@@ -607,3 +607,39 @@ Accepted summary position:
 - direct readers to the detailed reports for measurements, classifications, action registers, photographs, detailed drawings and implementation-level requirements.
 
 The accepted overall Cable Belt management conclusion remains draft report wording and may be refined later for flow and integration, provided its technical meaning is preserved.
+
+
+## 11. Section-Specific Context — Product Spillage
+
+Status: **CLOSED AND CONSOLIDATED**
+
+Authoritative consolidation:
+
+`SummaryReport/Notes/Product Spillage - Contextual Interpretation Consolidation.md`
+
+Historical overview and Q1–Q14 context:
+
+`SummaryReport/Notes/interview_question_answers_context/4. Product Spillage Contextual Interpretation/`
+
+High-level accepted interpretation:
+
+- the Product Spillage section should be built around one material-containment narrative with a main-body system matrix, two principal remedial stories, and shorter supporting local workstreams;
+- fines accumulation is system-wide across the inspected conveyor ecosystem, although severity and immediate mechanism vary; carryback is the strongest recurring mechanism but not the sole proven cause of every deposit;
+- the deposit location is not automatically the initiating cause location;
+- housekeeping controls the consequence and cannot substitute for source correction where recurring loss can be addressed;
+- CV09 is the proof/reference location for the preferred cleaner-and-containment standard;
+- the preferred normal cleaner concept is two effective pulley-supported stages with spring-loaded/self-tensioning wear compensation and retention of cleaner-removed fines within the discharge process; one effective stage is a constrained exception where verified geometry prevents two;
+- successful CV09 representative-performance verification should trigger systematic underground-and-surface review and progressive implementation at relevant head/discharge locations;
+- W10 is the principal side-skirt/spill-seal demonstration location;
+- Sample Conveyors 2 and 3 form part of the early high-impact side-containment programme after prerequisite feed/loading/tracking conditions are addressed;
+- side skirting is selective and mechanism-specific, not a universal conveyor-system requirement;
+- U4/L3 alignment, Screens water/structure, L1 structure/clearance, trip/restart and housekeeping remain concise supporting workstreams;
+- the inspection matrix should cover all 23 controlled inspection groups, be placed in the main body, follow underground-to-surface material-flow grouping, and carry separate fines-control and side-skirt status fields;
+- later site/user-identified skirt candidates must remain distinguishable from original audit-supported recommendations;
+- the summary should preserve remedial sequencing but not reproduce the formal Priority 1A–5 action register;
+- functional close-out requires representative operating verification, not installation or cleaning completion alone;
+- supplier names should remain mainly in the detailed report.
+
+An integrated working draft has been started at:
+
+`SummaryReport/South32 Audit Summary Report - Working Draft.md`
