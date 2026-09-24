@@ -552,3 +552,29 @@ Where additional explanation would materially improve the summary report, the se
 - selective tables or figures where they add genuine value.
 
 The three major sections do not need to be equal in length. Narrative depth should be determined by the complexity and interpretive value of the material rather than by formatting symmetry.
+
+
+## Section-Specific Accepted Context — Main Shaft Head Sheaves
+
+Status: **CLOSED AND CONSOLIDATED**
+
+Authoritative section context:
+
+`SummaryReport/Notes/Main Shaft Head Sheaves - Contextual Interpretation Consolidation.md`
+
+Historical interview source:
+
+`SummaryReport/Notes/interview_question_answers_context/2. Main Shaft Head Sheaves Contextual Interpretation/`
+
+Accepted summary position:
+
+- treat the Underlay, Overlay, and Service Winder Sheaves primarily as one collective condition finding;
+- briefly note that all three were individually found acceptable / Good;
+- current groove wear is minor and does not presently indicate a need for repair or replacement;
+- no immediate remedial intervention is required;
+- the inspection provides a baseline for future comparison and wear trending;
+- continue routine six-monthly inspection/monitoring;
+- keep detailed per-sheave evidence, measurements, classifications, and acceptance-criterion governance in the dedicated inspection report;
+- do not overdevelop this section merely to match the complexity of other audit sections.
+
+This section should remain short, factual, technically accurate, and management-level.
