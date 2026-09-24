@@ -53,7 +53,7 @@ A pre-interview source review note is stored alongside this README.
 
 ## Status
 
-**Section-specific interview round: OPEN — Questions 1–4 complete**
+**Section-specific interview round: OPEN — Questions 1–5 complete**
 
 
 ## Pre-Interview User Overview
@@ -73,3 +73,4 @@ This overview is governing context for the targeted Product Spillage interview q
 | Q2 | [Question 2 - Full Inspection Matrix Scope and Fields.md](./Question%202%20-%20Full%20Inspection%20Matrix%20Scope%20and%20Fields.md) | Answered |
 | Q3 | [Question 3 - CV09 Fines Control System Rollout Philosophy.md](./Question%203%20-%20CV09%20Fines%20Control%20System%20Rollout%20Philosophy.md) | Answered |
 | Q4 | [Question 4 - W10 and Sample Conveyor Side Skirting Rollout Philosophy.md](./Question%204%20-%20W10%20and%20Sample%20Conveyor%20Side%20Skirting%20Rollout%20Philosophy.md) | Answered |
+| Q5 | [Question 5 - Separate Fines Control and Side Skirt Matrix Status.md](./Question%205%20-%20Separate%20Fines%20Control%20and%20Side%20Skirt%20Matrix%20Status.md) | Answered |
