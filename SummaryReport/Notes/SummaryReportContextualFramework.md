@@ -643,3 +643,14 @@ High-level accepted interpretation:
 An integrated working draft has been started at:
 
 `SummaryReport/South32 Audit Summary Report - Working Draft.md`
+
+
+## Active Working Draft — V2
+
+The active integrated report draft is:
+
+`SummaryReport/South32 Audit Summary Report - Working Draft V2.md`
+
+The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained as the V1 historical reference.
+
+V2 implements the post-consolidation Product Spillage refinement by separating the system-wide fines/scraper programme from the skirting assessment and replacing the overloaded matrix with grouped four-column tables headed by **Skirting Requirement Status**.
