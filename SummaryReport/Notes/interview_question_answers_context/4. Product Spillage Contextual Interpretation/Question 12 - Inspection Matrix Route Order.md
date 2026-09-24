@@ -4,7 +4,7 @@
 
 - **Round:** Product Spillage Contextual Interpretation
 - **Question:** 12
-- **Status:** Pending answer
+- **Status:** Answered
 - **Date recorded:** 2026-09-24
 
 ## Question Asked
@@ -23,6 +23,27 @@
 >
 > Do you want the matrix arranged in that material-flow / route order?
 
+## User Answer — Preserved Verbatim
+
+> material-flow order from the underground system through to the surface/end-point sections
+
+## Contextual Interpretation
+
+The complete Product Spillage inspection matrix should be arranged in **material-flow order**, beginning with the underground conveyor system and progressing through to the surface and end-point sections.
+
+The matrix should therefore function as a system map in tabular form rather than as an alphabetical asset list or a reproduction of the detailed report's chapter order.
+
+Where the detailed report does not establish a sufficiently reliable sequence between particular locations, the summary should preserve the supported grouping and flag the ordering for later site confirmation rather than infer an unsupported process relationship.
+
+## Contextual Significance
+
+This ordering supports the report's connected-system perspective and makes it easier for management to:
+
+- follow the material path through the conveyor ecosystem;
+- understand where fines-control and side-containment requirements arise;
+- compare underground and surface conditions in system context;
+- identify candidate locations for later user/site refinement.
+
 ## Status
 
-**Pending answer**
+**Question 12: COMPLETE**
