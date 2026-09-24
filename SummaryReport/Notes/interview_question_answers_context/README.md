@@ -55,6 +55,7 @@ See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed struc
 | Q13 | [Question 13 - Terminology and Naming Conventions.md](./Question%2013%20-%20Terminology%20and%20Naming%20Conventions.md) | Answered |
 | Q14 | [Question 14 - Evidence Authority and Conflict Resolution.md](./Question%2014%20-%20Evidence%20Authority%20and%20Conflict%20Resolution.md) | Answered |
 | Q15 | [Question 15 - Desired Reader End-State.md](./Question%2015%20-%20Desired%20Reader%20End-State.md) | Answered |
+| Q16 | [Question 16 - Section Detail and Narrative Depth.md](./Question%2016%20-%20Section%20Detail%20and%20Narrative%20Depth.md) | Answered |
 
 ## Round Consolidation
 
