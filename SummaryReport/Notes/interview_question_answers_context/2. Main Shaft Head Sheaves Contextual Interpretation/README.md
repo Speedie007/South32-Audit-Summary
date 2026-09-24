@@ -35,4 +35,11 @@ If the consolidated foundation is ambiguous, consult the original Q1–Q16 recor
 
 **Section-specific interview round: OPEN**
 
-No questions have yet been recorded in this folder.
+Question 1 has been recorded and answered.
+
+
+## Question Register
+
+| Question | Context File | Status |
+| --- | --- | --- |
+| Q1 | [Question 1 - Core Management Message.md](./Question%201%20-%20Core%20Management%20Message.md) | Answered |
