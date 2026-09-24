@@ -142,3 +142,28 @@ The next stages should progressively establish, as information becomes available
 9. document-generation and final QA requirements.
 
 These are development areas rather than fixed conclusions and may be revised as the source material is reviewed.
+
+
+## 9. Section-Specific Context — Main Shaft Head Sheaves
+
+Status: **CLOSED AND CONSOLIDATED**
+
+Authoritative consolidation:
+
+`SummaryReport/Notes/Main Shaft Head Sheaves - Contextual Interpretation Consolidation.md`
+
+Historical Q1–Q3 context:
+
+`SummaryReport/Notes/interview_question_answers_context/2. Main Shaft Head Sheaves Contextual Interpretation/`
+
+High-level accepted interpretation:
+
+- the three Main Shaft Head Sheaves should be presented collectively;
+- all three were found acceptable / serviceable;
+- recorded groove wear is minor;
+- no current repair or replacement is indicated;
+- no immediate remedial intervention is required;
+- routine six-monthly monitoring and future trend comparison should continue;
+- detailed acceptance-criterion governance remains in the dedicated inspection report and should not be elevated into the summary unless later context changes.
+
+The Main Shaft Head Sheaves section should remain concise and should not be expanded merely for structural symmetry with more complex sections.
