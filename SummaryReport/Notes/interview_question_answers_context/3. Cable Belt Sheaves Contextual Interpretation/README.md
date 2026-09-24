@@ -54,3 +54,8 @@ Primary source reports for this round:
 **Section-specific interview round: OPEN**
 
 No questions have yet been recorded in this folder.
+
+
+## Pre-Interview Context Notes
+
+- [Relationship of the Three Cable Belt Sections](./Pre-Interview%20Context%20Note%20-%20Relationship%20of%20the%20Three%20Cable%20Belt%20Sections.md) — establishes that the Main Drive, Upper Gantry, and Lower Angle Station are separate physical sections of the same Cable Belt infrastructure.
