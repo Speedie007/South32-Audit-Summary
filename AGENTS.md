@@ -131,7 +131,7 @@ Current convention:
 
 - `1. Report Contextual Foundation/` — completed foundation Q1–Q16 history.
 - `2. Main Shaft Head Sheaves Contextual Interpretation/` — completed section-specific Q1–Q3 history.
-- `3. Cable Belt Sheaves Contextual Interpretation/` — current section-specific round.
+- `3. Cable Belt Sheaves Contextual Interpretation/` — completed section-specific Q1–Q10 history.
 
 For every section-specific round:
 1. create the round folder before asking the first question;
@@ -154,3 +154,16 @@ Use this consolidation as the primary context for that section. If ambiguity rem
 `SummaryReport/Notes/interview_question_answers_context/2. Main Shaft Head Sheaves Contextual Interpretation/`
 
 Do not infer or fabricate additional remedial complexity beyond the accepted context.
+
+
+### Cable Belt Sheaves Consolidation
+
+The completed Cable Belt Sheaves section-specific context is consolidated in:
+
+`SummaryReport/Notes/Cable Belt Sheaves - Contextual Interpretation Consolidation.md`
+
+Use this consolidation as the primary context for the Cable Belt section. If ambiguity remains, fall back to the original Q1–Q10 files under:
+
+`SummaryReport/Notes/interview_question_answers_context/3. Cable Belt Sheaves Contextual Interpretation/`
+
+Preserve the accepted distinctions between Angle Station, Main Drive and Upper Gantry. Do not merge their causal mechanisms or elevate detailed source-report classifications and implementation actions into the summary unless they add material management value.
