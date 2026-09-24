@@ -131,6 +131,7 @@ Current convention:
 
 - `1. Report Contextual Foundation/` — completed foundation Q1–Q16 history.
 - `2. Main Shaft Head Sheaves Contextual Interpretation/` — completed section-specific Q1–Q3 history.
+- `3. Cable Belt Sheaves Contextual Interpretation/` — current section-specific round.
 
 For every section-specific round:
 1. create the round folder before asking the first question;

@@ -1,0 +1,68 @@
+# 3. Cable Belt Sheaves Contextual Interpretation
+
+## Purpose
+
+This folder contains the detailed historical interview context for the **Cable Belt Sheaves** section-specific interpretation round.
+
+This round covers the three related Cable Belt Sheave inspection reports:
+
+- Cable Belt Main Drive Sheaves;
+- Cable Belt Angle Station Sheaves;
+- Upper Gantry Guide Sheaves.
+
+Each interview question will have its own Markdown file containing:
+
+1. the exact question asked;
+2. the user's answer as provided;
+3. the contextual interpretation of that answer;
+4. the contextual significance for the Cable Belt Sheaves section of the summary report.
+
+## Working Rule
+
+Questions are added sequentially as they are asked.
+
+The original answer must be preserved. Later refinements should be recorded as refinements rather than rewriting historical responses.
+
+When this section-specific round is complete, its accepted conclusions will be consolidated into a dedicated Cable Belt Sheaves context file in `SummaryReport/Notes/`.
+
+That consolidation will reference the original question files in this folder so later sessions can fall back to the historical source context if ambiguity or contextual drift arises.
+
+## Governing Background Context
+
+Before interpreting this section, use:
+
+`SummaryReport/Notes/Report Contextual Foundation - Background Context Consolidation.md`
+
+Also use the completed Main Shaft Head Sheaves consolidation only for report-wide consistency where relevant:
+
+`SummaryReport/Notes/Main Shaft Head Sheaves - Contextual Interpretation Consolidation.md`
+
+If the foundation consolidation is ambiguous, consult the original Q1–Q16 records under:
+
+`SummaryReport/Notes/interview_question_answers_context/1. Report Contextual Foundation/`
+
+## Technical Source Reports
+
+Primary source reports for this round:
+
+- `CompletedReports/ISS_IRS32-Wessels-180726 - Cable Belt Main Drive SheavesV1.4- Final.pdf`
+- `CompletedReports/ISS_IRS32-Wessels-200726 - Cable Belt Angle Station SheavesV1.1-Final.pdf`
+- `CompletedReports/South32_IRS32-Wessels-180726_1-Upper Gantry Guide Sheaves - Final.pdf`
+
+## Status
+
+**Section-specific interview round: OPEN**
+
+Question 1 has been recorded and answered.
+
+
+## Pre-Interview Context Notes
+
+- [Relationship of the Three Cable Belt Sections](./Pre-Interview%20Context%20Note%20-%20Relationship%20of%20the%20Three%20Cable%20Belt%20Sections.md) — establishes that the Main Drive, Upper Gantry, and Lower Angle Station are separate physical sections of the same Cable Belt infrastructure.
+
+
+## Question Register
+
+| Question | Context File | Status |
+| --- | --- | --- |
+| Q1 | [Question 1 - Overall Cable Belt Narrative Structure.md](./Question%201%20-%20Overall%20Cable%20Belt%20Narrative%20Structure.md) | Answered |
