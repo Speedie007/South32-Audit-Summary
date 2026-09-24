@@ -154,4 +154,62 @@ The summary report should answer primarily:
 
 ### Section B — Intended Audience and Required Decision Context
 
+Status: **Accepted baseline**
+
+#### Accepted Context — Intended Audience
+
+The summary report is intended for a mixed South32 audience comprising:
+
+- mine management;
+- engineering management;
+- maintenance management;
+- operational personnel;
+- procurement and project personnel who may be required to act on the recommendations or resulting remedial work.
+
+Because the audience spans technical, operational, managerial, and implementation roles, the report should be written as a **high-level technical narrative** rather than as a highly detailed engineering inspection report.
+
+The report should remain technically credible and sufficiently specific to support engineering and maintenance interpretation, while being clear enough for management and non-specialist stakeholders to understand the overall significance of the findings.
+
+#### Accepted Context — Communication Approach
+
+The report should read as a coherent technical story explaining:
+
+- what was inspected;
+- what the inspections collectively indicate;
+- what the findings mean at system level;
+- the remedial philosophy that follows from those findings;
+- where a logical order or sequence of remedial actions can be identified;
+- the implications of the findings if they are left unattended;
+- how the remedial philosophies differ between the principal audit areas;
+- how detailed technical findings in the source reports support the higher-level conclusions.
+
+The intention is not to provide a detailed maintenance work instruction, nor to repeat all individual inspection observations. The report should establish a clear **management-and-engineering understanding of the condition, implications, and remediation logic**.
+
+#### Accepted Context — Principal Report Sections
+
+At this stage, the summary report should be organized around two principal technical themes:
+
+1. **Cable Belt Sheave System**
+   - The relevant sheaves should be considered collectively as operating components within the broader cable belt transport system.
+   - Although individual source reports address specific sheave locations or groups, the summary report should interpret their significance as parts of one operating system where appropriate.
+   - The report should explain the overall condition philosophy, implications, and remedial approach for the sheave system rather than treating each source report as an isolated summary chapter.
+
+2. **Product Spillage**
+   - This section should address the product-spillage problem as a system-level issue along the conveyor transport route.
+   - The report should explain the interpretation of the findings, the remedial philosophy, and where appropriate the logical priority or sequence in which areas should be addressed.
+   - The purpose is to clarify how the identified problem areas relate to one another and how corrective actions should be understood in the broader spillage-control strategy.
+
+#### Reader Outcome
+
+After reading the report, the intended reader should have a clear understanding of:
+
+- the overall condition identified by the audit;
+- the significance of the findings;
+- the difference between the two principal technical problem areas;
+- the philosophy behind the recommended remedial actions;
+- the broad order in which corrective actions may need to be considered;
+- which detailed source reports should be consulted when section-specific evidence or technical detail is required.
+
+### Section C — Relationship Between the Sheave Reports and the Main Shaft Sheave Findings
+
 Status: **Not started**
