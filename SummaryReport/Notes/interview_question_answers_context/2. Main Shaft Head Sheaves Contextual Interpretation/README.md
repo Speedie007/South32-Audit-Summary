@@ -44,3 +44,4 @@ Question 1 has been recorded and answered.
 | --- | --- | --- |
 | Q1 | [Question 1 - Core Management Message.md](./Question%201%20-%20Core%20Management%20Message.md) | Answered |
 | Q2 | [Question 2 - Collective Versus Individual Presentation.md](./Question%202%20-%20Collective%20Versus%20Individual%20Presentation.md) | Answered |
+| Q3 | [Question 3 - Acceptance Criterion Detail in Summary.md](./Question%203%20-%20Acceptance%20Criterion%20Detail%20in%20Summary.md) | Answered |
