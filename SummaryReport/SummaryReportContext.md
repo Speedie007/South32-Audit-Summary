@@ -33,7 +33,8 @@ South32-Audit-Summary/
 └── SummaryReport/
     ├── SummaryReportContext.md
     └── Notes/
-        └── PlaceHolder.txt
+        ├── PlaceHolder.txt
+        └── SummaryReportContextualFramework.md
 ```
 
 ## 4. Source Report Register
@@ -72,7 +73,11 @@ The classifications above are derived only from filenames at this baseline stage
 - draft tables;
 - supporting contextual material.
 
-At baseline it contains only `PlaceHolder.txt`.
+The primary working contextual framework is:
+
+`SummaryReport/Notes/SummaryReportContextualFramework.md`
+
+This file is used for the structured interview, accepted report-development principles, report purpose, audience, interpretation rules, writing approach, and other contextual decisions.
 
 ## 6. Context Management Rules
 
@@ -105,9 +110,11 @@ Current state:
 - Repository structure established.
 - Five completed source reports are present.
 - Global agent instructions are maintained in root `AGENTS.md`.
-- This file is designated as the authoritative report-specific context record.
-- No detailed extraction or cross-report consolidation has yet been recorded in this context file.
-- No final summary-report outline has yet been accepted here.
+- This file is designated as the authoritative high-level report context record.
+- `SummaryReport/Notes/SummaryReportContextualFramework.md` has been established as the detailed interview and report-framework context.
+- Structured context discovery has begun.
+- No detailed extraction or cross-report consolidation has yet been completed.
+- No final summary-report outline has yet been accepted.
 - No evidence register, finding matrix, or recommendation matrix has yet been established.
 
 ## 8. Next Contextual Development Areas
