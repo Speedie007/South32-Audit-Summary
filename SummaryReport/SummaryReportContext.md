@@ -193,3 +193,31 @@ High-level accepted interpretation:
 - detailed classifications, measurements and implementation actions remain in the dedicated inspection reports unless selectively needed for management clarity.
 
 The Cable Belt draft management conclusion may be reworded during final report integration, but the accepted technical meaning must be retained.
+
+
+## 11. Section-Specific Context — Product Spillage
+
+Status: **CLOSED AND CONSOLIDATED**
+
+Primary section context:
+
+`SummaryReport/Notes/Product Spillage - Contextual Interpretation Consolidation.md`
+
+Accepted high-level position:
+
+- fines/carryback is the principal system-wide spillage narrative;
+- localized coarse/mixed-product loss is the second principal remedial narrative;
+- CV09 is the proof location for the preferred cleaner-and-containment function, followed by systematic progressive implementation at relevant underground and surface head/discharge locations;
+- W10 is the principal side-containment demonstration location, with Sample Conveyors 2 and 3 included in the early high-impact implementation workstream after prerequisite correction/verification;
+- the main-body management matrix will cover all 23 controlled inspection groups and show both fines-control and side-skirt status;
+- supporting water, structural, tracking/alignment and operational findings remain visible in concise subsections;
+- representative operating verification is required before close-out or wider rollout;
+- the detailed Product Spillage report remains the implementation/evidence authority.
+
+## 12. Integrated Working Draft
+
+An integrated summary-report working draft has been created at:
+
+`SummaryReport/South32 Audit Summary Report - Working Draft.md`
+
+It implements the accepted section-specific context while retaining the dedicated reports as the detailed technical references.
