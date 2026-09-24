@@ -291,3 +291,15 @@ The audit comprised three technically distinct areas:
 3. **Product Spillage** — investigation of product escaping from the conveyor transport system from underground sections through to surface handling and processing areas.
 
 These three areas should remain distinguishable in the summary report, while still being brought together under one overall audit narrative.
+
+#### Accepted Context — Independence of the Three Audit Areas
+
+The three areas are separate technical concerns:
+
+- The **Main Shaft Head Sheave** assessment is a standalone periodic condition assessment focused on sheave groove profile condition and forms part of the mine's required periodic safety inspection regime.
+- The **Cable Belt Sheave** assessment is a separate condition-assessment category comprising three independently inspected sheave sections: Main Drive Sheaves, Angle Station Sheaves, and Upper Gantry Guide Sheaves. These may be interpreted collectively because they form part of the supporting sheave infrastructure of the cable belt system.
+- The **Product Spillage** investigation is a separate operational/system investigation into loss or escape of material from the conveyor transport system.
+
+There is **no intended causal or interpretive relationship between the Cable Belt Sheave condition findings and the Product Spillage findings**. They should remain separate concerns unless explicit source evidence later establishes a relationship.
+
+This separation is important to prevent the final summary report from creating unsupported technical connections merely because the cable belt sheaves and spillage both relate to the broader conveyor transport environment.
