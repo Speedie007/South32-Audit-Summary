@@ -37,6 +37,27 @@ The writing approach should prioritize:
 
 The report framework will be developed through a structured question-and-answer interview with the user.
 
+### Interview Context Preservation Procedure
+
+The detailed historical interview record is stored under:
+
+`SummaryReport/Notes/interview_question_answers_context/`
+
+Each interview question must have its own context file containing:
+
+1. the question as asked;
+2. the user's answer as provided;
+3. the contextual interpretation of that answer;
+4. the contextual significance for the report framework.
+
+Questions that have been asked but not yet answered are recorded with status **Pending answer**.
+
+At the end of each interview round, the accepted conclusions from that round will be consolidated into a separate round-level context file. The round consolidation will reference the individual question files so that the high-level conclusions remain traceable to the original interview history.
+
+The individual question files are the detailed historical record. The round consolidation files are the higher-level synthesized context. This framework file contains the current accepted report-development position.
+
+The purpose of this layered structure is to minimize contextual drift and prevent important historical context, qualifications, or changes in interpretation from being lost.
+
 The interview will progressively establish:
 1. report objective;
 2. intended audience;
