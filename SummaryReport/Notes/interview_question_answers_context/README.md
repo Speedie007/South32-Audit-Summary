@@ -70,3 +70,18 @@ The authoritative consolidated background context is:
 `SummaryReport/Notes/Report Contextual Foundation - Background Context Consolidation.md`
 
 Future work must use the consolidation as the primary background context and fall back to the original Q1–Q16 files whenever wording, intent, or interpretation is ambiguous.
+
+
+## Section-Specific Interview Rounds
+
+### 2. Main Shaft Head Sheaves Contextual Interpretation
+
+**Status: OPEN**
+
+Historical Q&A context is stored under:
+
+`2. Main Shaft Head Sheaves Contextual Interpretation/`
+
+Each question will be recorded individually from the start using the same question → answer → contextual interpretation → contextual significance structure used for the foundation round.
+
+On closure, this round will be consolidated into a dedicated Main Shaft Head Sheaves section context file in `SummaryReport/Notes/`.
