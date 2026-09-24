@@ -355,3 +355,45 @@ Where source reports use strong action language such as `replace`, `repair`, `mo
 Direct technical action wording may be retained selectively where it materially supports or clarifies the management-level interpretation, but it should not be the primary language mode.
 
 The final report should emphasize the **reasoning, priority, implications, and strategic intent behind the remedial actions** rather than simply repeating section-specific instructions.
+
+
+### Accepted Context — Summary Report Exclusions and Synthesis Boundaries
+
+The summary report should avoid:
+
+- repeating detailed findings already contained in the source reports, except where concise reference is necessary;
+- reproducing long technical tables, detailed measurements, or granular inspection records;
+- becoming a maintenance work instruction;
+- becoming a detailed engineering design document;
+- assigning formal risk ratings unless already established;
+- creating artificial links between the three audited areas;
+- assigning blame or responsibility to individuals or departments;
+- making commercial, contractual, or legal conclusions;
+- promising that remedial actions will fully eliminate a problem;
+- presenting conceptual drawings as final design solutions.
+
+Where detailed technical evidence is required, the report should refer back to the appropriate source report.
+
+#### Remedial Philosophy — Prove Before Scaling
+
+Where applicable, recommended remedial concepts should generally be understood as:
+
+1. applied to a defined location, section, or subset;
+2. verified against the intended outcome;
+3. confirmed as effective;
+4. then scaled to other relevant areas or components where justified.
+
+The report should avoid implying universal effectiveness before a remedial concept has been demonstrated.
+
+#### Evidence-Based Holistic Synthesis
+
+The detailed reports remain the evidentiary foundation, but the summary report may derive higher-level conclusions from the combined context of multiple reports.
+
+A system-level trend or implication may be valid even where it is not explicitly stated in a single detailed report, provided that:
+
+- it is supported by the combined evidence;
+- the reasoning is traceable;
+- it does not contradict source findings;
+- it is clearly presented as holistic interpretation rather than a direct source finding.
+
+This is particularly relevant to the three Cable Belt Sheave reports, where individually granular findings may collectively reveal a broader trend across the cable belt sheave ecosystem.
