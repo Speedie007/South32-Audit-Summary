@@ -58,22 +58,64 @@ The individual question files are the detailed historical record. The round cons
 
 The purpose of this layered structure is to minimize contextual drift and prevent important historical context, qualifications, or changes in interpretation from being lost.
 
-The interview will progressively establish:
-1. report objective;
-2. intended audience;
-3. reason the summary report is required;
-4. scope and exclusions;
-5. relationship between the underlying reports;
-6. key messages the summary must communicate;
-7. interpretation principles;
-8. level of technical detail;
-9. report tone and formality;
-10. treatment of uncertainty and conflicting findings;
-11. recommendation approach;
-12. supporting evidence and visual requirements;
-13. preferred report structure;
-14. document presentation and formatting requirements;
-15. final review and acceptance criteria.
+### Interview Phase Structure
+
+#### Phase 1 — Report Contextual Foundation
+
+Questions **1–N** establish the complete background framework required before detailed technical interpretation begins.
+
+This phase covers the proverbial **who, what, where, why, how**, together with:
+- audit background and purpose;
+- site and system context;
+- intended audience;
+- report objective;
+- scope and exclusions;
+- the three audited component sets;
+- relationship between source reports;
+- interpretation principles;
+- level of technical detail;
+- report tone and narrative style;
+- recommendation philosophy;
+- prioritisation expectations;
+- treatment of uncertainty;
+- evidence boundaries;
+- desired reader outcome;
+- any other foundational context required to prevent ambiguity later.
+
+The phase remains open until the background is sufficiently established. It is not limited to a predefined number of questions.
+
+When complete, Questions 1–N will be consolidated into a dedicated **Report Contextual Foundation — Background Context Consolidation** file. That consolidation becomes the authoritative background context for later technical interviews.
+
+#### Phase 2 — Section-Specific Contextual Interpretation
+
+Once the foundation is closed, separate contextual interview rounds will be conducted for:
+
+1. **Main Shaft Head Sheaves**
+2. **Cable Belt Sheaves**
+3. **Product Spillage**
+
+For each section, the interview will establish:
+- what the contextual findings mean;
+- how the source report should be interpreted;
+- condition implications;
+- defined remedial actions;
+- remedial philosophy;
+- sequencing and priority where relevant;
+- dependencies and implementation logic;
+- what the final summary report should emphasize;
+- what detailed findings should remain in the source report rather than be repeated;
+- how the section contributes to the holistic audit narrative.
+
+#### Phase 3 — Holistic Remedial Integration
+
+After all three section-specific rounds are complete, a final synthesis will establish:
+- the overall remedial philosophy;
+- how the three sections should be presented together;
+- cross-cutting implications;
+- sequencing across workstreams where relevant;
+- dependencies and strategic considerations;
+- the final report narrative;
+- final conclusions and forward-action philosophy.
 
 Questions should be asked in manageable groups, with conclusions recorded after each agreed section.
 
