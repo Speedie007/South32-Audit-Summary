@@ -63,7 +63,16 @@ Questions 1–10 were recorded individually and consolidated into:
 The consolidation is the primary section context, with the original Q1–Q10 records preserved as the historical fallback source.
 
 ### C. Product Spillage
+
+**Status: OPEN — SOURCE REVIEW COMPLETE; AWAITING USER OVERVIEW**
+
+Historical interview context is stored under:
+
+`SummaryReport/Notes/interview_question_answers_context/4. Product Spillage Contextual Interpretation/`
+
 The interview will establish contextual interpretation of the spillage findings, root-cause or contributing-cause logic, remedial actions, priority areas, dependencies, remediation sequence, and the holistic spillage-control philosophy.
+
+Before Question 1, the user's overview of the report philosophy, original report structure/intent and desired high-level summary treatment will be captured. The issued Revision 1.5 report and supporting `Speedie007/Spillage-Report` contextual/development records have been identified as source context for this round.
 
 ## Phase 3 — Holistic Remedial Integration
 
