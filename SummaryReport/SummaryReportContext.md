@@ -77,7 +77,15 @@ The primary working contextual framework is:
 
 `SummaryReport/Notes/SummaryReportContextualFramework.md`
 
-This file is used for the structured interview, accepted report-development principles, report purpose, audience, interpretation rules, writing approach, and other contextual decisions.
+The authoritative consolidated background context for the completed foundation round is:
+
+`SummaryReport/Notes/Report Contextual Foundation - Background Context Consolidation.md`
+
+The original Q1–Q16 interview history is preserved under:
+
+`SummaryReport/Notes/interview_question_answers_context/1. Report Contextual Foundation/`
+
+The consolidation should be used as the primary background reference. Where interpretation is uncertain, fall back to the original Q&A files rather than assuming missing context.
 
 ## 6. Context Management Rules
 
@@ -112,8 +120,10 @@ Current state:
 - Global agent instructions are maintained in root `AGENTS.md`.
 - This file is designated as the authoritative high-level report context record.
 - `SummaryReport/Notes/SummaryReportContextualFramework.md` has been established as the detailed interview and report-framework context.
-- Structured context discovery has begun.
-- No detailed extraction or cross-report consolidation has yet been completed.
+- The Report Contextual Foundation interview has been completed and consolidated from Questions 1–16.
+- Historical Q1–Q16 context has been preserved for anti-drift traceability.
+- Section-specific contextual interpretation is the next development phase.
+- No detailed source-report extraction or cross-report technical consolidation has yet been completed.
 - No final summary-report outline has yet been accepted.
 - No evidence register, finding matrix, or recommendation matrix has yet been established.
 
