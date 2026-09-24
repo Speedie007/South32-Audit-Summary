@@ -91,3 +91,25 @@ For structured report-discovery interviews, use the following standard procedure
 9. Reflect accepted conclusions into `SummaryReport/Notes/SummaryReportContextualFramework.md` and, where appropriate, the higher-level `SummaryReport/SummaryReportContext.md`.
 
 The purpose of this procedure is to reduce contextual drift, preserve nuance, and maintain traceability from final report interpretation back to the original interview response.
+
+
+## Interview Phase Governance
+
+The interview is conducted in staged phases:
+
+1. **Report Contextual Foundation — Questions 1–N**
+   - Establish the complete background context: who, what, where, why, how, scope, audience, purpose, interpretation rules, and report expectations.
+   - Keep this phase open until sufficient context exists to safely begin technical interpretation.
+   - On closure, consolidate all foundation questions into `Report Contextual Foundation - Background Context Consolidation.md`.
+
+2. **Section-Specific Contextual Interpretation**
+   - Conduct separate interview rounds for:
+     - Main Shaft Head Sheaves;
+     - Cable Belt Sheaves;
+     - Product Spillage.
+   - For each section establish contextual findings, interpretation, implications, remedial actions, remedial philosophy, sequencing, and how the final report should communicate the section.
+
+3. **Holistic Remedial Integration**
+   - Consolidate the three section contexts into the overall remedial strategy and final report narrative.
+
+Do not move into section-specific finding interpretation until the Report Contextual Foundation has been formally closed and consolidated.
