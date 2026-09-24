@@ -339,3 +339,19 @@ Across all three areas, ISS was not expected to provide detailed engineering des
 Any technical drawings included in the source reports were conceptual aids used to support explanation of findings or recommendations. They were not to scale and were not intended to function as final technical specifications, fabrication drawings, construction drawings, or implementation-ready design documents.
 
 The final summary report must preserve the distinction between **technical advisory/remedial concepts** and **detailed engineered solutions**.
+
+
+### Accepted Context — Report Authority and Recommendation Tone
+
+The summary report should be positioned as a combination of:
+
+- a **professional technical recommendation** describing what ISS believes should be done based on the audit findings; and
+- an **advisory interpretation** that South32 can use to support its own engineering, maintenance, operational, and project decisions.
+
+It should not read as a binding directive, detailed work instruction, or implementation order.
+
+Where source reports use strong action language such as `replace`, `repair`, `monitor`, or `attend urgently`, the summary report should generally translate those detailed actions into a broader **management-level remediation philosophy**.
+
+Direct technical action wording may be retained selectively where it materially supports or clarifies the management-level interpretation, but it should not be the primary language mode.
+
+The final report should emphasize the **reasoning, priority, implications, and strategic intent behind the remedial actions** rather than simply repeating section-specific instructions.
