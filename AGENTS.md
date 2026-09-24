@@ -130,7 +130,7 @@ Each new section-specific interview round must begin by creating a numbered fold
 Current convention:
 
 - `1. Report Contextual Foundation/` — completed foundation Q1–Q16 history.
-- `2. Main Shaft Head Sheaves Contextual Interpretation/` — current section-specific round.
+- `2. Main Shaft Head Sheaves Contextual Interpretation/` — completed section-specific Q1–Q3 history.
 
 For every section-specific round:
 1. create the round folder before asking the first question;
@@ -140,3 +140,16 @@ For every section-specific round:
 5. consolidate the round into a dedicated context file in `SummaryReport/Notes/` when complete;
 6. reference the original question files from the consolidation;
 7. if later context is ambiguous, fall back to the original question files rather than infer missing intent.
+
+
+### Main Shaft Head Sheaves Consolidation
+
+The completed Main Shaft Head Sheaves section-specific context is consolidated in:
+
+`SummaryReport/Notes/Main Shaft Head Sheaves - Contextual Interpretation Consolidation.md`
+
+Use this consolidation as the primary context for that section. If ambiguity remains, fall back to the original Q1–Q3 files under:
+
+`SummaryReport/Notes/interview_question_answers_context/2. Main Shaft Head Sheaves Contextual Interpretation/`
+
+Do not infer or fabricate additional remedial complexity beyond the accepted context.
