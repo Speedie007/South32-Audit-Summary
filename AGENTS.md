@@ -75,8 +75,11 @@ This file should remain high-level. Detailed report-specific context belongs in 
 
 For structured report-discovery interviews, use the following standard procedure:
 
-1. Store individual question records under:
+1. Store individual question records under the applicable numbered interview-round folder beneath:
    `SummaryReport/Notes/interview_question_answers_context/`
+
+   Completed foundation context is stored in:
+   `SummaryReport/Notes/interview_question_answers_context/1. Report Contextual Foundation/`
 2. Create one Markdown context file per interview question.
 3. Each question file must contain:
    - the question exactly as asked;
@@ -100,7 +103,10 @@ The interview is conducted in staged phases:
 1. **Report Contextual Foundation — Questions 1–N**
    - Establish the complete background context: who, what, where, why, how, scope, audience, purpose, interpretation rules, and report expectations.
    - Keep this phase open until sufficient context exists to safely begin technical interpretation.
-   - On closure, consolidate all foundation questions into `Report Contextual Foundation - Background Context Consolidation.md`.
+   - The foundation round closed at Question 16.
+   - Its historical Q1–Q16 records are stored in `SummaryReport/Notes/interview_question_answers_context/1. Report Contextual Foundation/`.
+   - Its authoritative consolidation is `SummaryReport/Notes/Report Contextual Foundation - Background Context Consolidation.md`.
+   - Use the consolidation as the primary background context, but when any wording or intent is ambiguous, consult the original Q1–Q16 files instead of inferring or fabricating context.
 
 2. **Section-Specific Contextual Interpretation**
    - Conduct separate interview rounds for:
