@@ -112,7 +112,7 @@ Use that consolidation first, with the original Q1–Q10 files retained as the h
 
 ### 4. Product Spillage Contextual Interpretation
 
-**Status: OPEN — AWAITING USER OVERVIEW**
+**Status: CLOSED AND CONSOLIDATED**
 
 Historical interview context is stored under:
 
@@ -126,4 +126,10 @@ Supporting development/context repository:
 
 `Speedie007/Spillage-Report`
 
-The round has been opened and a pre-interview source review note recorded. The user's overview will be received before the first targeted interview question is asked.
+The round closed after Question 14.
+
+Authoritative consolidation:
+
+`SummaryReport/Notes/Product Spillage - Contextual Interpretation Consolidation.md`
+
+The original overview and Q1–Q14 files remain the historical fallback source.
