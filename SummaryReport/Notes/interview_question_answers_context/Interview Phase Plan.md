@@ -64,19 +64,27 @@ The consolidation is the primary section context, with the original Q1–Q10 rec
 
 ### C. Product Spillage
 
-**Status: OPEN — SOURCE REVIEW COMPLETE; AWAITING USER OVERVIEW**
+**Status: CLOSED AND CONSOLIDATED**
 
 Historical interview context is stored under:
 
 `SummaryReport/Notes/interview_question_answers_context/4. Product Spillage Contextual Interpretation/`
 
-The interview will establish contextual interpretation of the spillage findings, root-cause or contributing-cause logic, remedial actions, priority areas, dependencies, remediation sequence, and the holistic spillage-control philosophy.
+The Product Spillage round has been completed through Question 14 and consolidated into:
 
-Before Question 1, the user's overview of the report philosophy, original report structure/intent and desired high-level summary treatment will be captured. The issued Revision 1.5 report and supporting `Speedie007/Spillage-Report` contextual/development records have been identified as source context for this round.
+`SummaryReport/Notes/Product Spillage - Contextual Interpretation Consolidation.md`
+
+The consolidation is now the primary Product Spillage context, with the original user overview and Q1–Q14 files retained as the historical fallback source.
 
 ## Phase 3 — Holistic Remedial Integration
 
-After the three section-specific rounds are complete, a final synthesis round will establish:
+**Status: IMPLEMENTATION / INTEGRATED WORKING DRAFT STARTED**
+
+All three section-specific rounds are now complete. An integrated working draft has been created at:
+
+`SummaryReport/South32 Audit Summary Report - Working Draft.md`
+
+The final synthesis will establish:
 
 - how the three component sets should be presented together;
 - cross-cutting themes;
