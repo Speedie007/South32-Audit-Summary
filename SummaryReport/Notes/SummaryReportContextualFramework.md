@@ -498,3 +498,19 @@ System terminology should be used consistently:
 - **Conveyor** — generally refers to conventional conveyor sections, particularly the surface plant conveyors using conventional head/tail pulley arrangements with a drive section at the head. The underground system may also contain conventional conveyor sections.
 
 Where the word `conveyor` could be ambiguous, qualify the term so the reader can distinguish between the Cable Belt System, conventional underground conveyors, surface plant conveyors, and the overall Conveyor Transport System.
+
+
+### Accepted Context — Evidence Authority and Conflict Resolution
+
+The following hierarchy is accepted as the baseline:
+
+1. **Measured/recorded evidence in completed reports** — highest authority for factual condition.
+2. **Explicit conclusions in completed reports** — primary authority for section-specific findings.
+3. **Contextual explanation and professional interpretation** — may clarify intent, significance, implications, or relationships.
+4. **Combined cross-report synthesis** — may support broader conclusions where the collective evidence justifies them.
+5. **Informal site discussions or recollections** — supporting context unless independently documented.
+6. **Unresolved contradictions** — should be acknowledged rather than silently resolved by assumption.
+
+This is a baseline rather than a rigid universal rule. During the section-specific rounds, the hierarchy may be adjusted where certain evidence layers are unnecessary or where a different structure is more appropriate.
+
+Any material deviation from the baseline should be deliberate and recorded in the relevant section context.
