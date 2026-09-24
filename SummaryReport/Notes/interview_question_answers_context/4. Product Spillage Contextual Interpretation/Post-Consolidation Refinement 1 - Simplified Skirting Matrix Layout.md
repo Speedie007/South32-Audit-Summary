@@ -91,3 +91,21 @@ Do not:
 ## Next Step
 
 Refine the row-by-row coarse-product distribution and skirting status using the issued audit evidence, then allow the user to mark additional site candidates where the original audit does not establish enough context.
+
+
+## User Refinement — Column Heading
+
+The user confirmed that the simplified matrix is preferred because separating the fines/scraper programme from the skirting assessment removes information overload and makes each section easier to interpret.
+
+The heading **“Skirting position”** is superseded by:
+
+> **Skirting Requirement Status**
+
+This heading is preferred because it clearly communicates whether side skirting is required, potentially applicable, requires further review, or is not presently indicated.
+
+The status values remain:
+
+- **IMPLEMENT**
+- **POSSIBLE**
+- **REVIEW**
+- **NO**
