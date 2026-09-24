@@ -477,3 +477,24 @@ The writing style should be:
 - supported by selective tables or figures only where they genuinely improve understanding.
 
 The report should therefore read as a coherent technical story rather than a compressed inspection schedule or data-heavy technical appendix.
+
+
+### Accepted Context — Terminology and Naming Conventions
+
+Preferred terminology includes:
+
+- **South32 Wessels Mine**
+- **Inspection & Specification Services cc (ISS)**
+- **Main Shaft Head Sheaves**
+- **Cable Belt Main Drive Sheaves**
+- **Cable Belt Angle Station Sheaves**
+- **Upper Gantry Guide Sheaves**
+- **Product Spillage** / **Material Spillage**
+
+System terminology should be used consistently:
+
+- **Cable Belt System** — the cable belt conveyor system forming part of the underground conveyor infrastructure and part of the overall product route from underground to surface.
+- **Conveyor Transport System** — the complete conveyor network, including underground and surface plant conveyor systems.
+- **Conveyor** — generally refers to conventional conveyor sections, particularly the surface plant conveyors using conventional head/tail pulley arrangements with a drive section at the head. The underground system may also contain conventional conveyor sections.
+
+Where the word `conveyor` could be ambiguous, qualify the term so the reader can distinguish between the Cable Belt System, conventional underground conveyors, surface plant conveyors, and the overall Conveyor Transport System.
