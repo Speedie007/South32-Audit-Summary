@@ -411,3 +411,27 @@ Where evidence does not support absolute certainty, the report should use qualif
 Where appropriate, the report should also identify the need for further inspection, measurement, testing, or engineering verification.
 
 The strength of the wording should therefore match the strength of the available evidence, avoiding overstatement while still allowing reasoned professional interpretation.
+
+
+### Accepted Context — Priority and Remedial Sequencing
+
+Priority and sequencing should be expressed through qualitative engineering and operational reasoning rather than rigid numerical scoring.
+
+Relevant considerations include:
+
+- serviceability or operational risk;
+- impact on production or availability;
+- whether an intervention addresses a root cause or only a symptom;
+- ease of proving a remedial concept on a limited section or subset first;
+- dependencies between remedial actions;
+- whether one action should precede another to avoid wasted effort or ineffective sequencing.
+
+Unless a numerical ranking already exists in the source material and is appropriate to retain, the summary report should use broader priority language such as:
+
+- **immediate**;
+- **early attention**;
+- **planned intervention**;
+- **monitor**;
+- **verify first**.
+
+The report should explain the reasoning behind sequencing rather than merely assigning priority labels.
