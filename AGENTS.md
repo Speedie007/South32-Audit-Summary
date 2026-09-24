@@ -132,6 +132,7 @@ Current convention:
 - `1. Report Contextual Foundation/` — completed foundation Q1–Q16 history.
 - `2. Main Shaft Head Sheaves Contextual Interpretation/` — completed section-specific Q1–Q3 history.
 - `3. Cable Belt Sheaves Contextual Interpretation/` — completed section-specific Q1–Q10 history.
+- `4. Product Spillage Contextual Interpretation/` — current open section-specific round.
 
 For every section-specific round:
 1. create the round folder before asking the first question;
@@ -167,3 +168,20 @@ Use this consolidation as the primary context for the Cable Belt section. If amb
 `SummaryReport/Notes/interview_question_answers_context/3. Cable Belt Sheaves Contextual Interpretation/`
 
 Preserve the accepted distinctions between Angle Station, Main Drive and Upper Gantry. Do not merge their causal mechanisms or elevate detailed source-report classifications and implementation actions into the summary unless they add material management value.
+
+
+### Product Spillage Interview Round
+
+The current Product Spillage section-specific interview round is stored under:
+
+`SummaryReport/Notes/interview_question_answers_context/4. Product Spillage Contextual Interpretation/`
+
+Primary issued source:
+
+`CompletedReports/South32_Spillage_Audit_Report_July2026_S32WPPSR_01_FinalV1.5.pdf`
+
+Supporting historical/context source:
+
+`Speedie007/Spillage-Report`, particularly `Context/`, `Report-Working/` and `Report-Working/SpillageReport/`.
+
+Receive and preserve the user's initial overview of the spillage-report philosophy and desired summary treatment before introducing targeted interview questions. Do not assume that the high-level summary should reproduce the detailed report's architecture, action register or narrative depth.
