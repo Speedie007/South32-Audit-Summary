@@ -132,7 +132,7 @@ Current convention:
 - `1. Report Contextual Foundation/` — completed foundation Q1–Q16 history.
 - `2. Main Shaft Head Sheaves Contextual Interpretation/` — completed section-specific Q1–Q3 history.
 - `3. Cable Belt Sheaves Contextual Interpretation/` — completed section-specific Q1–Q10 history.
-- `4. Product Spillage Contextual Interpretation/` — current open section-specific round.
+- `4. Product Spillage Contextual Interpretation/` — completed Product Spillage Q1–Q14 history.
 
 For every section-specific round:
 1. create the round folder before asking the first question;
@@ -170,9 +170,9 @@ Use this consolidation as the primary context for the Cable Belt section. If amb
 Preserve the accepted distinctions between Angle Station, Main Drive and Upper Gantry. Do not merge their causal mechanisms or elevate detailed source-report classifications and implementation actions into the summary unless they add material management value.
 
 
-### Product Spillage Interview Round
+### Product Spillage Consolidation
 
-The current Product Spillage section-specific interview round is stored under:
+The completed Product Spillage section-specific interview history is stored under:
 
 `SummaryReport/Notes/interview_question_answers_context/4. Product Spillage Contextual Interpretation/`
 
@@ -184,4 +184,14 @@ Supporting historical/context source:
 
 `Speedie007/Spillage-Report`, particularly `Context/`, `Report-Working/` and `Report-Working/SpillageReport/`.
 
-Receive and preserve the user's initial overview of the spillage-report philosophy and desired summary treatment before introducing targeted interview questions. Do not assume that the high-level summary should reproduce the detailed report's architecture, action register or narrative depth.
+The Product Spillage round is closed and consolidated in:
+
+`SummaryReport/Notes/Product Spillage - Contextual Interpretation Consolidation.md`
+
+Use the consolidation as the primary Product Spillage context and the original overview/Q1–Q14 files as the historical fallback source.
+
+An integrated working draft is maintained at:
+
+`SummaryReport/South32 Audit Summary Report - Working Draft.md`
+
+Do not expand the summary into a reproduction of the detailed spillage report, its formal action register, supplier list or fabrication-level design.
