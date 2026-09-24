@@ -46,6 +46,7 @@ See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed struc
 | Q4 | [Question 4 - Relationship Between the Three Audited Areas.md](./Question%204%20-%20Relationship%20Between%20the%20Three%20Audited%20Areas.md) | Answered |
 | Q5 | [Question 5 - Audit Trigger and Commissioning Context.md](./Question%205%20-%20Audit%20Trigger%20and%20Commissioning%20Context.md) | Answered |
 | Q6 | [Question 6 - ISS Deliverables and Scope Boundaries.md](./Question%206%20-%20ISS%20Deliverables%20and%20Scope%20Boundaries.md) | Answered |
+| Q7 | [Question 7 - Report Authority and Recommendation Tone.md](./Question%207%20-%20Report%20Authority%20and%20Recommendation%20Tone.md) | Answered |
 
 ## Round Consolidation
 
