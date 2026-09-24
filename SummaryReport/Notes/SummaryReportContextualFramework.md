@@ -514,3 +514,18 @@ The following hierarchy is accepted as the baseline:
 This is a baseline rather than a rigid universal rule. During the section-specific rounds, the hierarchy may be adjusted where certain evidence layers are unnecessary or where a different structure is more appropriate.
 
 Any material deviation from the baseline should be deliberate and recorded in the relevant section context.
+
+
+### Accepted Context — Desired Reader End-State
+
+By the end of the summary report, the reader should understand:
+
+1. the overall condition and significance of each of the three audited areas;
+2. which matters require earlier attention and why, where relevant to the section;
+3. the broad remedial philosophy for each area;
+4. which actions should be proven or verified before being scaled, where applicable;
+5. where further inspection or engineering verification is still required;
+6. which detailed reports contain the supporting evidence;
+7. how South32 can use the findings to support maintenance and project planning going forward, where applicable.
+
+These elements should be applied selectively rather than mechanically. Not every section is required to address every item if it is not technically relevant.
