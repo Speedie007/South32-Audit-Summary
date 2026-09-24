@@ -76,7 +76,7 @@ Future work must use the consolidation as the primary background context and fal
 
 ### 2. Main Shaft Head Sheaves Contextual Interpretation
 
-**Status: OPEN**
+**Status: CLOSED AND CONSOLIDATED**
 
 Historical Q&A context is stored under:
 
@@ -84,4 +84,8 @@ Historical Q&A context is stored under:
 
 Each question will be recorded individually from the start using the same question → answer → contextual interpretation → contextual significance structure used for the foundation round.
 
-On closure, this round will be consolidated into a dedicated Main Shaft Head Sheaves section context file in `SummaryReport/Notes/`.
+The authoritative section consolidation is:
+
+`SummaryReport/Notes/Main Shaft Head Sheaves - Contextual Interpretation Consolidation.md`
+
+Use that consolidation first, with the original Q1–Q3 files retained as the historical fallback context.
