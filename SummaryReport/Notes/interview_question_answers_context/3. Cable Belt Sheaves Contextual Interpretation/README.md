@@ -73,3 +73,4 @@ Question 1 has been recorded and answered.
 | Question | Context File | Status |
 | --- | --- | --- |
 | Q2 | [Question 2 - Rope Path Geometry and Accelerated Wear Mechanism.md](./Question%202%20-%20Rope%20Path%20Geometry%20and%20Accelerated%20Wear%20Mechanism.md) | Answered |
+| Q3 | [Question 3 - Strength of Accelerated Rope Wear Conclusion.md](./Question%203%20-%20Strength%20of%20Accelerated%20Rope%20Wear%20Conclusion.md) | Answered |
