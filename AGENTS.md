@@ -119,3 +119,24 @@ The interview is conducted in staged phases:
    - Consolidate the three section contexts into the overall remedial strategy and final report narrative.
 
 Do not move into section-specific finding interpretation until the Report Contextual Foundation has been formally closed and consolidated.
+
+
+## Section-Specific Interview Folder Convention
+
+Each new section-specific interview round must begin by creating a numbered folder beneath:
+
+`SummaryReport/Notes/interview_question_answers_context/`
+
+Current convention:
+
+- `1. Report Contextual Foundation/` — completed foundation Q1–Q16 history.
+- `2. Main Shaft Head Sheaves Contextual Interpretation/` — current section-specific round.
+
+For every section-specific round:
+1. create the round folder before asking the first question;
+2. create one context file per question;
+3. preserve exact user answers;
+4. record contextual interpretation and significance;
+5. consolidate the round into a dedicated context file in `SummaryReport/Notes/` when complete;
+6. reference the original question files from the consolidation;
+7. if later context is ambiguous, fall back to the original question files rather than infer missing intent.
