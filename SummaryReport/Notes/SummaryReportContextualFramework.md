@@ -435,3 +435,21 @@ Unless a numerical ranking already exists in the source material and is appropri
 - **verify first**.
 
 The report should explain the reasoning behind sequencing rather than merely assigning priority labels.
+
+
+### Accepted Context — Reader Familiarity and Source Report Referencing
+
+The summary report should assume that readers have access to the detailed reports and may either:
+
+- already be familiar with them; or
+- not have read them in full.
+
+The summary therefore does not need to reproduce detailed technical content, but it must contain enough contextual explanation for the high-level interpretation to remain understandable.
+
+References to detailed source reports should generally be used only where necessary so the narrative remains clean.
+
+Where reference is useful:
+- use a light reference where general direction to the source report is sufficient;
+- use an explicit report and section reference where a specific technical detail, qualification, or traceability point requires clarification.
+
+The preferred approach is **minimal but traceable** rather than citation-heavy repetition.
