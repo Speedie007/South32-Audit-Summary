@@ -69,3 +69,25 @@ At baseline:
 - `SummaryReport/Notes/` currently contains only a placeholder file.
 
 This file should remain high-level. Detailed report-specific context belongs in `SummaryReport/SummaryReportContext.md`.
+
+
+## Interview Context Preservation Procedure
+
+For structured report-discovery interviews, use the following standard procedure:
+
+1. Store individual question records under:
+   `SummaryReport/Notes/interview_question_answers_context/`
+2. Create one Markdown context file per interview question.
+3. Each question file must contain:
+   - the question exactly as asked;
+   - the user's answer as provided;
+   - the contextual interpretation of that answer;
+   - the contextual significance for the developing report.
+4. If a question has been asked but not yet answered, create the file with status **Pending answer** rather than omitting it.
+5. Preserve historical answers. Later refinements should be added as refinements or superseding context, not by erasing the original response.
+6. At the end of each interview round, create a consolidated round context file summarizing the accepted conclusions from that round.
+7. Each round consolidation should reference the individual question context files used to derive its conclusions.
+8. Use the consolidated round context as the higher-level working context while retaining the individual files as the audit trail for contextual history.
+9. Reflect accepted conclusions into `SummaryReport/Notes/SummaryReportContextualFramework.md` and, where appropriate, the higher-level `SummaryReport/SummaryReportContext.md`.
+
+The purpose of this procedure is to reduce contextual drift, preserve nuance, and maintain traceability from final report interpretation back to the original interview response.
