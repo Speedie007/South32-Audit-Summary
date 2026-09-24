@@ -108,3 +108,22 @@ The authoritative section consolidation is:
 `SummaryReport/Notes/Cable Belt Sheaves - Contextual Interpretation Consolidation.md`
 
 Use that consolidation first, with the original Q1–Q10 files retained as the historical fallback context.
+
+
+### 4. Product Spillage Contextual Interpretation
+
+**Status: OPEN — AWAITING USER OVERVIEW**
+
+Historical interview context is stored under:
+
+`4. Product Spillage Contextual Interpretation/`
+
+Primary final source report:
+
+`CompletedReports/South32_Spillage_Audit_Report_July2026_S32WPPSR_01_FinalV1.5.pdf`
+
+Supporting development/context repository:
+
+`Speedie007/Spillage-Report`
+
+The round has been opened and a pre-interview source review note recorded. The user's overview will be received before the first targeted interview question is asked.
