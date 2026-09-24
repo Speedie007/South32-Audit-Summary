@@ -53,7 +53,7 @@ A pre-interview source review note is stored alongside this README.
 
 ## Status
 
-**Section-specific interview round: OPEN — Question 13 pending**
+**Section-specific interview round: OPEN — Question 14 pending**
 
 
 ## Pre-Interview User Overview
@@ -81,4 +81,5 @@ This overview is governing context for the targeted Product Spillage interview q
 | Q10 | [Question 10 - Overall Product Spillage Management Conclusion.md](./Question%2010%20-%20Overall%20Product%20Spillage%20Management%20Conclusion.md) | Answered |
 | Q11 | [Question 11 - Verification and Close-Out Philosophy.md](./Question%2011%20-%20Verification%20and%20Close-Out%20Philosophy.md) | Answered |
 | Q12 | [Question 12 - Inspection Matrix Route Order.md](./Question%2012%20-%20Inspection%20Matrix%20Route%20Order.md) | Answered |
-| Q13 | [Question 13 - Inspection Matrix Placement in Summary.md](./Question%2013%20-%20Inspection%20Matrix%20Placement%20in%20Summary.md) | Pending answer |
+| Q13 | [Question 13 - Inspection Matrix Placement in Summary.md](./Question%2013%20-%20Inspection%20Matrix%20Placement%20in%20Summary.md) | Answered |
+| Q14 | [Question 14 - Matrix Evidence Status and User Refinement.md](./Question%2014%20-%20Matrix%20Evidence%20Status%20and%20User%20Refinement.md) | Pending answer |
