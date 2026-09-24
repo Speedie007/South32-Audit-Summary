@@ -53,7 +53,7 @@ A pre-interview source review note is stored alongside this README.
 
 ## Status
 
-**Section-specific interview round: OPEN — Question 10 pending**
+**Section-specific interview round: OPEN — Question 11 pending**
 
 
 ## Pre-Interview User Overview
@@ -78,4 +78,5 @@ This overview is governing context for the targeted Product Spillage interview q
 | Q7 | [Question 7 - Governing Interpretation Principle for Spillage Location and Housekeeping.md](./Question%207%20-%20Governing%20Interpretation%20Principle%20for%20Spillage%20Location%20and%20Housekeeping.md) | Answered |
 | Q8 | [Question 8 - Priority Structure in the Summary.md](./Question%208%20-%20Priority%20Structure%20in%20the%20Summary.md) | Answered |
 | Q9 | [Question 9 - Supplier References in the Summary.md](./Question%209%20-%20Supplier%20References%20in%20the%20Summary.md) | Answered |
-| Q10 | [Question 10 - Overall Product Spillage Management Conclusion.md](./Question%2010%20-%20Overall%20Product%20Spillage%20Management%20Conclusion.md) | Pending answer |
+| Q10 | [Question 10 - Overall Product Spillage Management Conclusion.md](./Question%2010%20-%20Overall%20Product%20Spillage%20Management%20Conclusion.md) | Answered |
+| Q11 | [Question 11 - Verification and Close-Out Philosophy.md](./Question%2011%20-%20Verification%20and%20Close-Out%20Philosophy.md) | Pending answer |
