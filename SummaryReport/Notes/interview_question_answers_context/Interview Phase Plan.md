@@ -6,15 +6,19 @@ This file defines the staged interview structure for development of the South32 
 
 ## Phase 1 — Report Contextual Foundation
 
-Questions 1–N establish the foundational background context for the report: the proverbial **who, what, where, why, how**, together with scope, audience, intent, structure, interpretation rules, and expected reader outcome.
+Questions 1–16 established the foundational background context for the report: the proverbial **who, what, where, why, how**, together with scope, audience, intent, structure, interpretation rules, and expected reader outcome.
 
-This phase remains open until enough background context has been established to support later technical interpretation without ambiguity.
+**Status: CLOSED AND CONSOLIDATED.**
 
-When complete, Questions 1–N will be consolidated into:
+Historical Q1–Q16 records are preserved under:
 
-`Report Contextual Foundation - Background Context Consolidation.md`
+`SummaryReport/Notes/interview_question_answers_context/1. Report Contextual Foundation/`
 
-That consolidation becomes the authoritative background context for subsequent technical interview rounds.
+The authoritative consolidated background context is:
+
+`SummaryReport/Notes/Report Contextual Foundation - Background Context Consolidation.md`
+
+The consolidation is the primary working background context. If anything in it is ambiguous, future sessions must fall back to the original Q1–Q16 files rather than infer or fabricate missing context.
 
 ## Phase 2 — Section-Specific Contextual Interpretation
 
