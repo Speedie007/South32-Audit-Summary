@@ -44,6 +44,7 @@ See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed struc
 | Q2 | [Question 2 - Intended Audience and Decision Context.md](./Question%202%20-%20Intended%20Audience%20and%20Decision%20Context.md) | Answered |
 | Q3 | [Question 3 - Position of the Main Shaft Head Sheaves.md](./Question%203%20-%20Position%20of%20the%20Main%20Shaft%20Head%20Sheaves.md) | Answered |
 | Q4 | [Question 4 - Relationship Between the Three Audited Areas.md](./Question%204%20-%20Relationship%20Between%20the%20Three%20Audited%20Areas.md) | Answered |
+| Q5 | [Question 5 - Audit Trigger and Commissioning Context.md](./Question%205%20-%20Audit%20Trigger%20and%20Commissioning%20Context.md) | Answered |
 
 ## Round Consolidation
 
