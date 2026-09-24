@@ -66,3 +66,10 @@ Question 1 has been recorded and answered.
 | Question | Context File | Status |
 | --- | --- | --- |
 | Q1 | [Question 1 - Overall Cable Belt Narrative Structure.md](./Question%201%20-%20Overall%20Cable%20Belt%20Narrative%20Structure.md) | Answered |
+
+
+## Question Register
+
+| Question | Context File | Status |
+| --- | --- | --- |
+| Q2 | [Question 2 - Rope Path Geometry and Accelerated Wear Mechanism.md](./Question%202%20-%20Rope%20Path%20Geometry%20and%20Accelerated%20Wear%20Mechanism.md) | Answered |
