@@ -36,33 +36,37 @@ See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed struc
 
 ## Current Round
 
-**Phase 1 / Foundation Round — Report Contextual Foundation**
+**Phase 1 / Foundation Round — Report Contextual Foundation — CLOSED**
 
 | Question | Context File | Status |
 | --- | --- | --- |
-| Q1 | [Question 1 - Core Reason for the Summary Report.md](./Question%201%20-%20Core%20Reason%20for%20the%20Summary%20Report.md) | Answered |
-| Q2 | [Question 2 - Intended Audience and Decision Context.md](./Question%202%20-%20Intended%20Audience%20and%20Decision%20Context.md) | Answered |
-| Q3 | [Question 3 - Position of the Main Shaft Head Sheaves.md](./Question%203%20-%20Position%20of%20the%20Main%20Shaft%20Head%20Sheaves.md) | Answered |
-| Q4 | [Question 4 - Relationship Between the Three Audited Areas.md](./Question%204%20-%20Relationship%20Between%20the%20Three%20Audited%20Areas.md) | Answered |
-| Q5 | [Question 5 - Audit Trigger and Commissioning Context.md](./Question%205%20-%20Audit%20Trigger%20and%20Commissioning%20Context.md) | Answered |
-| Q6 | [Question 6 - ISS Deliverables and Scope Boundaries.md](./Question%206%20-%20ISS%20Deliverables%20and%20Scope%20Boundaries.md) | Answered |
-| Q7 | [Question 7 - Report Authority and Recommendation Tone.md](./Question%207%20-%20Report%20Authority%20and%20Recommendation%20Tone.md) | Answered |
-| Q8 | [Question 8 - Summary Report Exclusions and Synthesis Boundaries.md](./Question%208%20-%20Summary%20Report%20Exclusions%20and%20Synthesis%20Boundaries.md) | Answered |
-| Q9 | [Question 9 - Uncertainty and Professional Judgement.md](./Question%209%20-%20Uncertainty%20and%20Professional%20Judgement.md) | Answered |
-| Q10 | [Question 10 - Priority and Remedial Sequencing.md](./Question%2010%20-%20Priority%20and%20Remedial%20Sequencing.md) | Answered |
-| Q11 | [Question 11 - Reader Familiarity and Source Report Referencing.md](./Question%2011%20-%20Reader%20Familiarity%20and%20Source%20Report%20Referencing.md) | Answered |
-| Q12 | [Question 12 - Writing Style and Narrative Flow.md](./Question%2012%20-%20Writing%20Style%20and%20Narrative%20Flow.md) | Answered |
-| Q13 | [Question 13 - Terminology and Naming Conventions.md](./Question%2013%20-%20Terminology%20and%20Naming%20Conventions.md) | Answered |
-| Q14 | [Question 14 - Evidence Authority and Conflict Resolution.md](./Question%2014%20-%20Evidence%20Authority%20and%20Conflict%20Resolution.md) | Answered |
-| Q15 | [Question 15 - Desired Reader End-State.md](./Question%2015%20-%20Desired%20Reader%20End-State.md) | Answered |
-| Q16 | [Question 16 - Section Detail and Narrative Depth.md](./Question%2016%20-%20Section%20Detail%20and%20Narrative%20Depth.md) | Answered |
+| Q1 | [Question 1 - Core Reason for the Summary Report.md](./1.%20Report%20Contextual%20Foundation/Question%201%20-%20Core%20Reason%20for%20the%20Summary%20Report.md) | Answered |
+| Q2 | [Question 2 - Intended Audience and Decision Context.md](./1.%20Report%20Contextual%20Foundation/Question%202%20-%20Intended%20Audience%20and%20Decision%20Context.md) | Answered |
+| Q3 | [Question 3 - Position of the Main Shaft Head Sheaves.md](./1.%20Report%20Contextual%20Foundation/Question%203%20-%20Position%20of%20the%20Main%20Shaft%20Head%20Sheaves.md) | Answered |
+| Q4 | [Question 4 - Relationship Between the Three Audited Areas.md](./1.%20Report%20Contextual%20Foundation/Question%204%20-%20Relationship%20Between%20the%20Three%20Audited%20Areas.md) | Answered |
+| Q5 | [Question 5 - Audit Trigger and Commissioning Context.md](./1.%20Report%20Contextual%20Foundation/Question%205%20-%20Audit%20Trigger%20and%20Commissioning%20Context.md) | Answered |
+| Q6 | [Question 6 - ISS Deliverables and Scope Boundaries.md](./1.%20Report%20Contextual%20Foundation/Question%206%20-%20ISS%20Deliverables%20and%20Scope%20Boundaries.md) | Answered |
+| Q7 | [Question 7 - Report Authority and Recommendation Tone.md](./1.%20Report%20Contextual%20Foundation/Question%207%20-%20Report%20Authority%20and%20Recommendation%20Tone.md) | Answered |
+| Q8 | [Question 8 - Summary Report Exclusions and Synthesis Boundaries.md](./1.%20Report%20Contextual%20Foundation/Question%208%20-%20Summary%20Report%20Exclusions%20and%20Synthesis%20Boundaries.md) | Answered |
+| Q9 | [Question 9 - Uncertainty and Professional Judgement.md](./1.%20Report%20Contextual%20Foundation/Question%209%20-%20Uncertainty%20and%20Professional%20Judgement.md) | Answered |
+| Q10 | [Question 10 - Priority and Remedial Sequencing.md](./1.%20Report%20Contextual%20Foundation/Question%2010%20-%20Priority%20and%20Remedial%20Sequencing.md) | Answered |
+| Q11 | [Question 11 - Reader Familiarity and Source Report Referencing.md](./1.%20Report%20Contextual%20Foundation/Question%2011%20-%20Reader%20Familiarity%20and%20Source%20Report%20Referencing.md) | Answered |
+| Q12 | [Question 12 - Writing Style and Narrative Flow.md](./1.%20Report%20Contextual%20Foundation/Question%2012%20-%20Writing%20Style%20and%20Narrative%20Flow.md) | Answered |
+| Q13 | [Question 13 - Terminology and Naming Conventions.md](./1.%20Report%20Contextual%20Foundation/Question%2013%20-%20Terminology%20and%20Naming%20Conventions.md) | Answered |
+| Q14 | [Question 14 - Evidence Authority and Conflict Resolution.md](./1.%20Report%20Contextual%20Foundation/Question%2014%20-%20Evidence%20Authority%20and%20Conflict%20Resolution.md) | Answered |
+| Q15 | [Question 15 - Desired Reader End-State.md](./1.%20Report%20Contextual%20Foundation/Question%2015%20-%20Desired%20Reader%20End-State.md) | Answered |
+| Q16 | [Question 16 - Section Detail and Narrative Depth.md](./1.%20Report%20Contextual%20Foundation/Question%2016%20-%20Section%20Detail%20and%20Narrative%20Depth.md) | Answered |
 
 ## Round Consolidation
 
-The current foundation round will remain open through **Question N** until the required background context has been established.
+The Report Contextual Foundation round closed after **Question 16**.
 
-When closed, the foundation questions will be consolidated into:
+The original Q1–Q16 historical records are preserved in:
 
-`Report Contextual Foundation - Background Context Consolidation.md`
+`1. Report Contextual Foundation/`
 
-That file will become the authoritative background context for all later section-specific interview rounds.
+The authoritative consolidated background context is:
+
+`SummaryReport/Notes/Report Contextual Foundation - Background Context Consolidation.md`
+
+Future work must use the consolidation as the primary background context and fall back to the original Q1–Q16 files whenever wording, intent, or interpretation is ambiguous.
