@@ -93,7 +93,7 @@ Use that consolidation first, with the original Q1–Q3 files retained as the hi
 
 ### 3. Cable Belt Sheaves Contextual Interpretation
 
-**Status: OPEN**
+**Status: CLOSED AND CONSOLIDATED**
 
 Historical Q&A context is stored under:
 
@@ -103,4 +103,8 @@ This round covers the Main Drive Sheaves, Angle Station Sheaves, and Upper Gantr
 
 Each question will be recorded individually from the start using the standard question → answer → contextual interpretation → contextual significance structure.
 
-On closure, this round will be consolidated into a dedicated Cable Belt Sheaves context file in `SummaryReport/Notes/`.
+The authoritative section consolidation is:
+
+`SummaryReport/Notes/Cable Belt Sheaves - Contextual Interpretation Consolidation.md`
+
+Use that consolidation first, with the original Q1–Q10 files retained as the historical fallback context.
