@@ -303,3 +303,24 @@ The three areas are separate technical concerns:
 There is **no intended causal or interpretive relationship between the Cable Belt Sheave condition findings and the Product Spillage findings**. They should remain separate concerns unless explicit source evidence later establishes a relationship.
 
 This separation is important to prevent the final summary report from creating unsupported technical connections merely because the cable belt sheaves and spillage both relate to the broader conveyor transport environment.
+
+
+### Accepted Context — Audit Trigger and Commissioning Qualification
+
+The contextual reasons for the three audit areas were **not directly communicated to ISS as formal commissioning reasons**. They were understood from site conditions and discussions with personnel during the audit.
+
+Accordingly:
+
+- **Main Shaft Head Sheaves:** contextual drivers were scheduled/periodic inspection and regulatory/safety requirements.
+- **Cable Belt Sheaves:** contextual drivers were deterioration/failure concern and a desire for an independent condition assessment.
+- **Product Spillage:** contextual drivers were a known operational problem, recurring spillage or production-loss concerns, independent assessment, and possible preparation for maintenance or capital work.
+
+These points are background context, not verified formal appointment statements.
+
+The final report must distinguish between:
+- documented scope or instruction;
+- observed site context;
+- information obtained through discussion;
+- interpretation derived from those circumstances.
+
+Unverified contextual drivers should be expressed with qualified language and must not be attributed to South32 as formal commissioning intent unless supported by documentary evidence.
