@@ -89,3 +89,18 @@ The authoritative section consolidation is:
 `SummaryReport/Notes/Main Shaft Head Sheaves - Contextual Interpretation Consolidation.md`
 
 Use that consolidation first, with the original Q1–Q3 files retained as the historical fallback context.
+
+
+### 3. Cable Belt Sheaves Contextual Interpretation
+
+**Status: OPEN**
+
+Historical Q&A context is stored under:
+
+`3. Cable Belt Sheaves Contextual Interpretation/`
+
+This round covers the Main Drive Sheaves, Angle Station Sheaves, and Upper Gantry Guide Sheaves as independently inspected groups that may require collective system-level interpretation.
+
+Each question will be recorded individually from the start using the standard question → answer → contextual interpretation → contextual significance structure.
+
+On closure, this round will be consolidated into a dedicated Cable Belt Sheaves context file in `SummaryReport/Notes/`.
