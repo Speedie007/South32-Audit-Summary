@@ -53,6 +53,7 @@ See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed struc
 | Q11 | [Question 11 - Reader Familiarity and Source Report Referencing.md](./Question%2011%20-%20Reader%20Familiarity%20and%20Source%20Report%20Referencing.md) | Answered |
 | Q12 | [Question 12 - Writing Style and Narrative Flow.md](./Question%2012%20-%20Writing%20Style%20and%20Narrative%20Flow.md) | Answered |
 | Q13 | [Question 13 - Terminology and Naming Conventions.md](./Question%2013%20-%20Terminology%20and%20Naming%20Conventions.md) | Answered |
+| Q14 | [Question 14 - Evidence Authority and Conflict Resolution.md](./Question%2014%20-%20Evidence%20Authority%20and%20Conflict%20Resolution.md) | Answered |
 
 ## Round Consolidation
 
