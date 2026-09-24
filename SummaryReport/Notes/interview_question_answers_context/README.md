@@ -48,6 +48,7 @@ See [Interview Phase Plan](./Interview%20Phase%20Plan.md) for the detailed struc
 | Q6 | [Question 6 - ISS Deliverables and Scope Boundaries.md](./Question%206%20-%20ISS%20Deliverables%20and%20Scope%20Boundaries.md) | Answered |
 | Q7 | [Question 7 - Report Authority and Recommendation Tone.md](./Question%207%20-%20Report%20Authority%20and%20Recommendation%20Tone.md) | Answered |
 | Q8 | [Question 8 - Summary Report Exclusions and Synthesis Boundaries.md](./Question%208%20-%20Summary%20Report%20Exclusions%20and%20Synthesis%20Boundaries.md) | Answered |
+| Q9 | [Question 9 - Uncertainty and Professional Judgement.md](./Question%209%20-%20Uncertainty%20and%20Professional%20Judgement.md) | Answered |
 
 ## Round Consolidation
 
