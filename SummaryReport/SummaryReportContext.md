@@ -167,3 +167,29 @@ High-level accepted interpretation:
 - detailed acceptance-criterion governance remains in the dedicated inspection report and should not be elevated into the summary unless later context changes.
 
 The Main Shaft Head Sheaves section should remain concise and should not be expanded merely for structural symmetry with more complex sections.
+
+
+## 10. Section-Specific Context — Cable Belt Sheaves
+
+Status: **CLOSED AND CONSOLIDATED**
+
+Authoritative consolidation:
+
+`SummaryReport/Notes/Cable Belt Sheaves - Contextual Interpretation Consolidation.md`
+
+Historical Q1–Q10 context:
+
+`SummaryReport/Notes/interview_question_answers_context/3. Cable Belt Sheaves Contextual Interpretation/`
+
+High-level accepted interpretation:
+
+- the Cable Belt section is one broader system-level narrative supported by Main Drive, Angle Station and Upper Gantry subsections;
+- Angle Station and Main Drive are the principal corrective-engineering areas, while Upper Gantry is presently serviceable and principally a monitoring/trending area;
+- the Angle Station non-zero fleet-angle/off-centre rope path is a significant contributing mechanism and a principal contributor to accelerated Cable Belt rope wear through repeated sidewall contact, asymmetric groove wear, degraded rope support and increased strand/contact stress;
+- the same Angle Station geometry introduces abnormal lateral/overturning bearing reactions and is considered a contributing mechanism to shortened bearing life, without being stated as the proven sole cause of an individual bearing failure;
+- Angle Station remediation should address the rope path itself and may use a controlled proof-of-concept on one representative/problematic rope path before wider rollout once effectiveness is demonstrated;
+- the Main Drive is treated independently and centres on physical alignment / rope-path geometry, measurement before final correction, coordinated geometry correction and renewal of worn rope-contact components;
+- Upper Gantry should remain concise in the summary: serviceable overall, no immediate major corrective work, with continued condition monitoring and attention to front-sheave groove-base scoring;
+- detailed classifications, measurements and implementation actions remain in the dedicated inspection reports unless selectively needed for management clarity.
+
+The Cable Belt draft management conclusion may be reworded during final report integration, but the accepted technical meaning must be retained.
