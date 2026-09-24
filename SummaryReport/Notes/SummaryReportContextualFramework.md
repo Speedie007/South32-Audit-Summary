@@ -453,3 +453,27 @@ Where reference is useful:
 - use an explicit report and section reference where a specific technical detail, qualification, or traceability point requires clarification.
 
 The preferred approach is **minimal but traceable** rather than citation-heavy repetition.
+
+
+### Accepted Context — Writing Style and Narrative Flow
+
+The default narrative flow for the summary report is:
+
+1. **What was inspected**
+2. **What the collective findings indicate**
+3. **What that means operationally/technically**
+4. **What remedial philosophy follows from that**
+5. **What should happen first, next, or be verified before scaling**
+6. **What the broader implications are going forward**
+
+This is the baseline narrative sequence rather than a rigid template and may be adjusted where a section requires a different order for clarity.
+
+The writing style should be:
+
+- formal and professional;
+- plain English where possible;
+- technically precise without being overly academic;
+- primarily prose-led;
+- supported by selective tables or figures only where they genuinely improve understanding.
+
+The report should therefore read as a coherent technical story rather than a compressed inspection schedule or data-heavy technical appendix.
