@@ -43,6 +43,14 @@ The detailed historical interview record is stored under:
 
 `SummaryReport/Notes/interview_question_answers_context/`
 
+The completed Report Contextual Foundation interview history (Q1–Q16) is stored under:
+
+`SummaryReport/Notes/interview_question_answers_context/1. Report Contextual Foundation/`
+
+Its authoritative consolidated background context is:
+
+`SummaryReport/Notes/Report Contextual Foundation - Background Context Consolidation.md`
+
 Each interview question must have its own context file containing:
 
 1. the question as asked;
@@ -82,9 +90,11 @@ This phase covers the proverbial **who, what, where, why, how**, together with:
 - desired reader outcome;
 - any other foundational context required to prevent ambiguity later.
 
-The phase remains open until the background is sufficiently established. It is not limited to a predefined number of questions.
+This phase closed after Question 16.
 
-When complete, Questions 1–N will be consolidated into a dedicated **Report Contextual Foundation — Background Context Consolidation** file. That consolidation becomes the authoritative background context for later technical interviews.
+Questions 1–16 have been consolidated into **Report Contextual Foundation - Background Context Consolidation.md**, which is now the authoritative background context for later technical interviews.
+
+The original Q1–Q16 files remain the historical source context and must be consulted whenever the consolidation is ambiguous or a later interpretation risks drifting beyond the originally established context.
 
 #### Phase 2 — Section-Specific Contextual Interpretation
 
