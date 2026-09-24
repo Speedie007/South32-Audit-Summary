@@ -42,7 +42,7 @@ The consolidation is the primary section context, with the original Q1–Q3 reco
 
 ### B. Cable Belt Sheaves
 
-**Status: OPEN**
+**Status: CLOSED AND CONSOLIDATED**
 
 Historical interview context is stored under:
 
@@ -56,7 +56,11 @@ This round covers:
 
 The interview will establish collective system-level interpretation, relationships between inspected sheave groups, implications, remedial actions, remedial philosophy, implementation order, and forward strategy.
 
-Each question is recorded individually from the start. When the round closes, it will be consolidated into a dedicated section context file that references the original question records.
+Questions 1–10 were recorded individually and consolidated into:
+
+`SummaryReport/Notes/Cable Belt Sheaves - Contextual Interpretation Consolidation.md`
+
+The consolidation is the primary section context, with the original Q1–Q10 records preserved as the historical fallback source.
 
 ### C. Product Spillage
 The interview will establish contextual interpretation of the spillage findings, root-cause or contributing-cause logic, remedial actions, priority areas, dependencies, remediation sequence, and the holistic spillage-control philosophy.
