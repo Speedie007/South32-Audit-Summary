@@ -351,3 +351,22 @@ Do not:
 - transfer the Screens water source to CV01/CV04 without evidence;
 - treat housekeeping or a temporarily clean area as proof of source correction;
 - reproduce the detailed action register, supplier list or fabrication-level design in the summary.
+
+
+## 14. Post-Consolidation Refinement — Simplified Skirting Matrix
+
+The original eight-column management matrix concept has been superseded by a simpler **skirting-focused** layout following user review.
+
+Primary refinement record:
+
+`SummaryReport/Notes/interview_question_answers_context/4. Product Spillage Contextual Interpretation/Post-Consolidation Refinement 1 - Simplified Skirting Matrix Layout.md`
+
+The revised direction is:
+
+- keep the full inspected population visible, but group it into shorter material-flow tables;
+- use only the fields needed to identify coarse-product presence/distribution and side-skirt applicability;
+- separate the universal fines/cleaner-control programme from the skirting matrix;
+- use concise skirting statuses such as **IMPLEMENT / POSSIBLE / REVIEW / NO**;
+- retain additional site-identified candidates as later user/site refinements rather than original audit findings.
+
+This refinement supersedes the earlier requirement for separate fines-control and side-skirt status columns within the same matrix. The accepted system-wide fines-control philosophy itself remains unchanged.
