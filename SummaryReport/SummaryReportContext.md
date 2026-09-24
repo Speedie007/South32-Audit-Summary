@@ -209,7 +209,7 @@ Accepted high-level position:
 - localized coarse/mixed-product loss is the second principal remedial narrative;
 - CV09 is the proof location for the preferred cleaner-and-containment function, followed by systematic progressive implementation at relevant underground and surface head/discharge locations;
 - W10 is the principal side-containment demonstration location, with Sample Conveyors 2 and 3 included in the early high-impact implementation workstream after prerequisite correction/verification;
-- the main-body management matrix will cover all 23 controlled inspection groups and show both fines-control and side-skirt status;
+- the main-body skirting summary will cover all 23 controlled inspection groups in short material-flow tables, while the system-wide fines/scraper programme is explained separately;
 - supporting water, structural, tracking/alignment and operational findings remain visible in concise subsections;
 - representative operating verification is required before close-out or wider rollout;
 - the detailed Product Spillage report remains the implementation/evidence authority.
@@ -218,6 +218,8 @@ Accepted high-level position:
 
 An integrated summary-report working draft has been created at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V2.md`
 
-It implements the accepted section-specific context while retaining the dedicated reports as the detailed technical references.
+**Working Draft V2 is the active review draft.** The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained unchanged as the V1 historical reference.
+
+V2 separates the system-wide fines/scraper programme from the simplified skirting assessment and replaces the former overloaded eight-column matrix with short grouped tables using **Skirting Requirement Status**.
