@@ -53,7 +53,7 @@ A pre-interview source review note is stored alongside this README.
 
 ## Status
 
-**Section-specific interview round: OPEN — initial user overview captured; ready for Question 1**
+**Section-specific interview round: OPEN — Question 1 complete**
 
 
 ## Pre-Interview User Overview
@@ -63,3 +63,10 @@ The user's initial explanation of the spillage-report philosophy and desired sum
 `Pre-Interview User Overview - Spillage Report Philosophy and Summary Intent.md`
 
 This overview is governing context for the targeted Product Spillage interview questions that follow.
+
+
+## Question Register
+
+| Question | Context File | Status |
+| --- | --- | --- |
+| Q1 | [Question 1 - Baseline Summary Structure.md](./Question%201%20-%20Baseline%20Summary%20Structure.md) | Answered |
