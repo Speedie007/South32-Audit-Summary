@@ -101,8 +101,57 @@ Current confirmed direction:
 
 ## Interview Record
 
-### Section A — Report Purpose and Audience
+### Section A — Report Purpose and Audit Context
 
 Status: **In progress**
 
-Questions and accepted conclusions will be added below as the interview proceeds.
+#### Accepted Context — Audit Background
+
+An audit was conducted by **Inspection & Specification Services cc (ISS)** at **South32 Wessels Mine**.
+
+The audit comprised two principal workstreams:
+
+1. **Sheave operational-condition assessment**
+   - Assessment of the current operational condition of sheaves forming part of the conveyor transport system.
+   - Assessment of sheaves forming part of the main shaft lift system.
+   - The individual completed reports provide the detailed findings for the specific inspected sections and equipment groups.
+
+2. **Conveyor product-spillage investigation**
+   - Investigation of product spillage escaping from the conveyor transport system.
+   - The conveyor system transports product from the underground sections through to the surface processing and material-handling sections.
+   - The spillage investigation was intended to identify the causes or contributing causes of the spillage problem.
+   - The dedicated spillage report records the detailed findings and was structured to identify areas that should receive earlier attention in the remediation process.
+
+The completed audit reports are retained in the repository under `CompletedReports/`.
+
+#### Accepted Context — Purpose of the Summary Report
+
+The summary report is **not intended to reproduce or condense the detailed findings from each completed report**. Those reports already serve as the dedicated technical records for the different inspected sections.
+
+The summary report should instead provide a **holistic overview and interpretation** of the audit findings.
+
+Its purpose is to:
+- bring the separate inspection reports into one coherent overall picture;
+- explain what the combined findings indicate when considered together;
+- provide clarity on how the detailed findings should be interpreted;
+- identify important relationships, common themes, or broader implications across the inspected systems;
+- retain enough technical context for the interpretation to be credible without duplicating the detailed evidence already contained in the source reports;
+- direct readers back to the individual reports where detailed section-specific evidence is required.
+
+For the spillage workstream specifically, the summary report should also clarify the broader meaning of the findings and the logic behind the areas identified for earlier remedial attention. It should not merely repeat the detailed spillage findings or reproduce the original report section by section.
+
+#### Working Interpretation Principle
+
+The final report should function as an **interpretive bridge between the detailed technical reports and the reader's overall understanding of the audit**.
+
+The detailed reports answer primarily:
+
+> What was found at each inspected section?
+
+The summary report should answer primarily:
+
+> What do these findings mean when viewed collectively, and how should they be understood in the context of the overall audit?
+
+### Section B — Intended Audience and Required Decision Context
+
+Status: **Not started**
