@@ -53,7 +53,7 @@ A pre-interview source review note is stored alongside this README.
 
 ## Status
 
-**Section-specific interview round: OPEN — Question 8 pending**
+**Section-specific interview round: OPEN — Questions 1–8 complete**
 
 
 ## Pre-Interview User Overview
@@ -76,4 +76,4 @@ This overview is governing context for the targeted Product Spillage interview q
 | Q5 | [Question 5 - Separate Fines Control and Side Skirt Matrix Status.md](./Question%205%20-%20Separate%20Fines%20Control%20and%20Side%20Skirt%20Matrix%20Status.md) | Answered |
 | Q6 | [Question 6 - Treatment of Supporting Workstreams.md](./Question%206%20-%20Treatment%20of%20Supporting%20Workstreams.md) | Answered |
 | Q7 | [Question 7 - Governing Interpretation Principle for Spillage Location and Housekeeping.md](./Question%207%20-%20Governing%20Interpretation%20Principle%20for%20Spillage%20Location%20and%20Housekeeping.md) | Answered |
-| Q8 | [Question 8 - Priority Structure in the Summary.md](./Question%208%20-%20Priority%20Structure%20in%20the%20Summary.md) | Pending answer |
+| Q8 | [Question 8 - Priority Structure in the Summary.md](./Question%208%20-%20Priority%20Structure%20in%20the%20Summary.md) | Answered |
