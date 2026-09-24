@@ -4,7 +4,7 @@
 
 - **Round:** Product Spillage Contextual Interpretation
 - **Question:** 11
-- **Status:** Pending answer
+- **Status:** Answered
 - **Date recorded:** 2026-09-24
 
 ## Question Asked
@@ -26,6 +26,39 @@
 >
 > Do you want this verification-and-close-out philosophy stated explicitly in the Product Spillage summary?
 
+## User Answer — Preserved Verbatim
+
+> yes
+
+## Contextual Interpretation
+
+The Product Spillage summary should explicitly state that completion of physical work does not, by itself, constitute successful close-out.
+
+The accepted verification sequence is:
+
+**as-found baseline → corrective intervention → representative operating verification → as-left condition and performance record → close-out / wider-rollout decision**
+
+This principle applies particularly where the intervention is intended to become a reference standard or where success depends on actual operating behaviour.
+
+## Application
+
+The principle should be applied, as relevant, to:
+
+- CV09 cleaner-and-containment proof of concept;
+- W10 and Sample Conveyor side-containment work;
+- CV06 cleaner restoration;
+- tracking/alignment corrections;
+- process-water containment work;
+- other interventions whose effectiveness must be demonstrated in service.
+
+For pilot/reference interventions, wider rollout should follow demonstrated representative performance rather than installation completion alone.
+
+## Contextual Significance
+
+This preserves the detailed report's distinction between **work completion** and **functional close-out**.
+
+It also supports the wider summary philosophy of **prove before scaling**, particularly for the CV09 fines-control standard and the W10 / Sample Conveyor side-containment programme.
+
 ## Status
 
-**Pending answer**
+**Question 11: COMPLETE**
