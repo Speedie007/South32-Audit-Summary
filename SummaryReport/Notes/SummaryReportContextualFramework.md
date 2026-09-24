@@ -187,14 +187,19 @@ The intention is not to provide a detailed maintenance work instruction, nor to 
 
 #### Accepted Context — Principal Report Sections
 
-At this stage, the summary report should be organized around two principal technical themes:
+The audit and the summary report should be understood as comprising **three distinct technical component sets**:
 
-1. **Cable Belt Sheave System**
+1. **Main Shaft Head Sheaves**
+   - These form a separate audited component set associated with the main shaft lift system.
+   - They should not be grouped into the cable belt sheave system.
+   - The summary report should provide a high-level interpretation of their condition, significance, and remedial philosophy while referring readers to the dedicated source report for detailed findings.
+
+2. **Cable Belt Sheaves**
    - The relevant sheaves should be considered collectively as operating components within the broader cable belt transport system.
    - Although individual source reports address specific sheave locations or groups, the summary report should interpret their significance as parts of one operating system where appropriate.
-   - The report should explain the overall condition philosophy, implications, and remedial approach for the sheave system rather than treating each source report as an isolated summary chapter.
+   - The report should explain the overall condition philosophy, implications, and remedial approach for the cable belt sheave system rather than treating each source report as an isolated summary chapter.
 
-2. **Product Spillage**
+3. **Product Spillage**
    - This section should address the product-spillage problem as a system-level issue along the conveyor transport route.
    - The report should explain the interpretation of the findings, the remedial philosophy, and where appropriate the logical priority or sequence in which areas should be addressed.
    - The purpose is to clarify how the identified problem areas relate to one another and how corrective actions should be understood in the broader spillage-control strategy.
@@ -210,6 +215,16 @@ After reading the report, the intended reader should have a clear understanding 
 - the broad order in which corrective actions may need to be considered;
 - which detailed source reports should be consulted when section-specific evidence or technical detail is required.
 
-### Section C — Relationship Between the Sheave Reports and the Main Shaft Sheave Findings
+### Section C — Three-Part Audit Structure and Interrelationships
 
-Status: **Not started**
+Status: **In progress**
+
+#### Accepted Context — Three Audited Component Sets
+
+The audit comprised three technically distinct areas:
+
+1. **Main Shaft Head Sheaves** — main shaft lift system.
+2. **Cable Belt Sheaves** — sheaves operating within the cable belt conveyor transport system.
+3. **Product Spillage** — investigation of product escaping from the conveyor transport system from underground sections through to surface handling and processing areas.
+
+These three areas should remain distinguishable in the summary report, while still being brought together under one overall audit narrative.
