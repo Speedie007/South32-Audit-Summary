@@ -4,7 +4,7 @@
 
 - **Round:** Product Spillage Contextual Interpretation
 - **Question:** 8
-- **Status:** Pending answer
+- **Status:** Answered
 - **Date recorded:** 2026-09-24
 
 ## Question Asked
@@ -28,6 +28,28 @@
 >
 > Would you prefer that narrative sequencing approach, or should the summary explicitly retain the Priority 1A–5 terminology?
 
+## User Answer — Preserved Verbatim
+
+> lets keeps the summary interpretive instead of duplicating the detailed action register we can indicate that they can refrer to the detalied report.
+
+## Contextual Interpretation
+
+The Product Spillage summary should preserve the **logic and sequencing** of the detailed report's recommended action programme without routinely reproducing the formal Priority 1A–5 labels or the full action register.
+
+The summary should therefore remain interpretive and management-level.
+
+A suitable narrative sequence is:
+
+**prove the principal control concepts and restore obvious cleaner defects → address the other high-impact local material-loss and tracking conditions, including the Sample Conveyors → complete the water / structural workstreams → systematically extend demonstrated controls → maintain trip/restart and housekeeping governance**
+
+Where the reader requires the formal priority labels, detailed action sequences, verification requirements, evidence references or close-out criteria, the summary should direct them to the dedicated Product Spillage report.
+
+## Contextual Significance
+
+This preserves the remedial hierarchy without turning the summary into a duplicate of the detailed report.
+
+The summary should explain **why the sequence matters** and what the overall programme is trying to achieve, while the detailed report remains the authority for the formal priority structure and implementation detail.
+
 ## Status
 
-**Pending answer**
+**Question 8: COMPLETE**
