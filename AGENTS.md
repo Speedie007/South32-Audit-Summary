@@ -226,3 +226,16 @@ V5 scraper-rollout rule:
 - CV06 = restoration/verification case, not a second pilot;
 - CV05/CV07/CV08/CV10/CV11/CV12/CV13 = site-identified rollout locations;
 - fines/scraper rollout and side-skirt applicability must remain separate decision frameworks.
+
+
+### Formal Word Drafts
+
+Semi-formal Word deliverables are stored under:
+
+`SummaryReport/final drafts/`
+
+Current Word draft:
+
+`SummaryReport/final drafts/South32 Wessels Mine Technical Audit Summary - Draft 1.docx`
+
+The Word Draft 1 was generated from Working Draft V5. Treat V5 as the current editable content baseline unless later reviewed Word changes are explicitly accepted into the report context. Preserve prior Word drafts when creating later formal-draft versions.
