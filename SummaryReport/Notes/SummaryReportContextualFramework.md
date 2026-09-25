@@ -645,12 +645,23 @@ An integrated working draft has been started at:
 `SummaryReport/South32 Audit Summary Report - Working Draft.md`
 
 
-## Active Working Draft — V3
+## Active Working Draft — V4
 
 The active integrated report draft is:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V3.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
 
 The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained as the V1 historical reference and `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` is retained as the V2 historical reference.
 
 V3 retains the V2 separation of system-wide fines/scraper control from the grouped skirting assessment and additionally implements the revised **5.1 Report Interpretation** subsection. The subsection explains that the detailed Product Spillage report is a prioritised engineering narrative: all defined inspection locations were covered, but selected significant/high-impact/reference locations were emphasized as the initial implementation and verification points for the proposed control philosophy.
+
+
+### V4 sequencing refinement
+
+V4 preserves the V3 technical content but changes the order of the major technical sections to:
+
+1. Product / Material Spillage
+2. Cable Belt Sheaves
+3. Main Shaft Head Sheaves
+
+The Product Spillage subsections are correspondingly renumbered from 5.x to 3.x. Cable Belt remains Section 4. Main Shaft Head Sheaves becomes Section 5.
