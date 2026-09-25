@@ -192,7 +192,7 @@ Use the consolidation as the primary Product Spillage context and the original o
 
 An integrated working draft is maintained at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V3.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
 
 Do not expand the summary into a reproduction of the detailed spillage report, its formal action register, supplier list or fabrication-level design.
 
@@ -201,11 +201,19 @@ Do not expand the summary into a reproduction of the detailed spillage report, i
 
 Active draft:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V2.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
 
 Historical references:
 
 - `SummaryReport/South32 Audit Summary Report - Working Draft.md` — V1
 - `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` — V2
+- `SummaryReport/South32 Audit Summary Report - Working Draft V3.md` — V3
 
 Do not overwrite historical draft versions when creating later review drafts unless the user explicitly requests it.
+
+
+Current major-section order in V4:
+
+- Section 3 — Product / Material Spillage
+- Section 4 — Cable Belt Sheaves
+- Section 5 — Main Shaft Head Sheaves
