@@ -192,7 +192,7 @@ Use the consolidation as the primary Product Spillage context and the original o
 
 An integrated working draft is maintained at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V5.md`
 
 Do not expand the summary into a reproduction of the detailed spillage report, its formal action register, supplier list or fabrication-level design.
 
@@ -201,13 +201,14 @@ Do not expand the summary into a reproduction of the detailed spillage report, i
 
 Active draft:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V5.md`
 
 Historical references:
 
 - `SummaryReport/South32 Audit Summary Report - Working Draft.md` — V1
 - `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` — V2
 - `SummaryReport/South32 Audit Summary Report - Working Draft V3.md` — V3
+- `SummaryReport/South32 Audit Summary Report - Working Draft V4.md` — V4
 
 Do not overwrite historical draft versions when creating later review drafts unless the user explicitly requests it.
 
@@ -217,3 +218,11 @@ Current major-section order in V4:
 - Section 3 — Product / Material Spillage
 - Section 4 — Cable Belt Sheaves
 - Section 5 — Main Shaft Head Sheaves
+
+
+V5 scraper-rollout rule:
+
+- CV09 = proof-of-concept for cleaner-and-containment standard;
+- CV06 = restoration/verification case, not a second pilot;
+- CV05/CV07/CV08/CV10/CV11/CV12/CV13 = site-identified rollout locations;
+- fines/scraper rollout and side-skirt applicability must remain separate decision frameworks.
