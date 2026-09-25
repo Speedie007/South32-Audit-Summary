@@ -82,9 +82,9 @@ The consolidation is now the primary Product Spillage context, with the original
 
 All three section-specific rounds are now complete. An integrated working draft has been created at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V2.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V3.md`
 
-The original V1 working draft is retained as a historical reference. V2 is the active review draft and implements the simplified Product Spillage skirting tables.
+The V1 and V2 working drafts are retained as historical references. V3 is the active review draft; it retains the simplified Product Spillage skirting tables and adds the revised **Report Interpretation** subsection.
 
 The final synthesis will establish:
 
