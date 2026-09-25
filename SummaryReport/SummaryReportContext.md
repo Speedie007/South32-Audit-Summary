@@ -218,8 +218,19 @@ Accepted high-level position:
 
 An integrated summary-report working draft has been created at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V3.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
 
-**Working Draft V3 is the active review draft.** The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained unchanged as the V1 historical reference, and `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` is retained unchanged as the V2 historical reference.
+**Working Draft V4 is the active review draft.** The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained unchanged as the V1 historical reference, and `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` is retained unchanged as the V2 historical reference.
 
 V3 retains the simplified V2 fines/skirting structure and additionally replaces Section 5.1 **System Interpretation** with **Report Interpretation**, clarifying that the detailed Product Spillage report is a prioritised engineering narrative: the complete inspection scope was covered, while selected high-impact/reference locations were emphasized as initial implementation and verification points rather than the only locations relevant to later rollout.
+
+
+## 13. V4 Major-Section Sequence
+
+Working Draft V4 changes only the presentation order of the three major technical sections:
+
+1. **Product / Material Spillage**
+2. **Cable Belt Sheaves**
+3. **Main Shaft Head Sheaves**
+
+The section content is retained from V3; only section placement and the corresponding section/subsection numbering are changed. V1, V2 and V3 remain preserved as historical review drafts.
