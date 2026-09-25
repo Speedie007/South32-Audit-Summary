@@ -192,7 +192,7 @@ Use the consolidation as the primary Product Spillage context and the original o
 
 An integrated working draft is maintained at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V2.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V3.md`
 
 Do not expand the summary into a reproduction of the detailed spillage report, its formal action register, supplier list or fabrication-level design.
 
@@ -203,8 +203,9 @@ Active draft:
 
 `SummaryReport/South32 Audit Summary Report - Working Draft V2.md`
 
-Historical reference:
+Historical references:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft.md`
+- `SummaryReport/South32 Audit Summary Report - Working Draft.md` — V1
+- `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` — V2
 
-Do not overwrite the V1 reference when refining V2 unless the user explicitly requests it.
+Do not overwrite historical draft versions when creating later review drafts unless the user explicitly requests it.
