@@ -82,9 +82,9 @@ The consolidation is now the primary Product Spillage context, with the original
 
 All three section-specific rounds are now complete. An integrated working draft has been created at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V3.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
 
-The V1 and V2 working drafts are retained as historical references. V3 is the active review draft; it retains the simplified Product Spillage skirting tables and adds the revised **Report Interpretation** subsection.
+The V1, V2 and V3 working drafts are retained as historical references. V4 is the active review draft and reorders the major technical sections to **Product / Material Spillage → Cable Belt Sheaves → Main Shaft Head Sheaves** without changing their technical content.
 
 The final synthesis will establish:
 
