@@ -370,3 +370,23 @@ The revised direction is:
 - retain additional site-identified candidates as later user/site refinements rather than original audit findings.
 
 This refinement supersedes the earlier requirement for separate fines-control and side-skirt status columns within the same matrix. The accepted system-wide fines-control philosophy itself remains unchanged.
+
+
+## 15. Post-Consolidation Refinement — Explicit Fines / Scraper Rollout Lists
+
+Working Draft V5 adds explicit rollout-planning subsections beneath the system-wide fines/scraper-control philosophy.
+
+Primary refinement record:
+
+`SummaryReport/Notes/interview_question_answers_context/4. Product Spillage Contextual Interpretation/Post-Consolidation Refinement 4 - Fines Scraper Rollout Lists.md`
+
+Accepted additions:
+
+- CV09 remains the proof-of-concept for the upgraded cleaner-and-containment functional standard.
+- CV06 remains an early restoration/verification case and should not be described as a second pilot.
+- underground, surface-handling and Surface Loadout rollout lists are now made explicit;
+- CV05, CV07, CV08, CV10, CV11, CV12 and CV13 are identified as **site-identified rollout locations**, not original audit inspection groups;
+- the Cable Belt Conveyor is retained as a site-identified underground rollout location;
+- Surface Loadout rollout includes L1, L2, L3, L4 and Sample Conveyors 1–3;
+- U4 remains a geometry-specific cleaner exception;
+- the **system-wide scraper/cleaner programme** remains separate from the **selective skirting programme**.
