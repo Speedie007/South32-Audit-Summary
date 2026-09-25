@@ -218,9 +218,9 @@ Accepted high-level position:
 
 An integrated summary-report working draft has been created at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V5.md`
 
-**Working Draft V4 is the active review draft.** The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained unchanged as the V1 historical reference, and `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` is retained unchanged as the V2 historical reference.
+**Working Draft V5 is the active review draft.** The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained unchanged as the V1 historical reference, and `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` is retained unchanged as the V2 historical reference.
 
 V3 retains the simplified V2 fines/skirting structure and additionally replaces Section 5.1 **System Interpretation** with **Report Interpretation**, clarifying that the detailed Product Spillage report is a prioritised engineering narrative: the complete inspection scope was covered, while selected high-impact/reference locations were emphasized as initial implementation and verification points rather than the only locations relevant to later rollout.
 
@@ -234,3 +234,15 @@ Working Draft V4 changes only the presentation order of the three major technica
 3. **Main Shaft Head Sheaves**
 
 The section content is retained from V3; only section placement and the corresponding section/subsection numbering are changed. V1, V2 and V3 remain preserved as historical review drafts.
+
+
+## 14. V5 Fines / Scraper Rollout Refinement
+
+Working Draft V5 uses V4 as the baseline and adds explicit rollout-planning subsections beneath Product Spillage Section 3.2.
+
+The revised structure preserves the distinction between:
+
+- **system-wide fines/scraper control** — systematic review and progressive implementation at relevant discharge locations; and
+- **side skirting** — selective implementation where coarse-product loss and local geometry justify it.
+
+CV09 remains the proof-of-concept location. CV06 is a restoration/verification case. CV05, CV07, CV08, CV10, CV11, CV12 and CV13 are recorded as site-identified rollout locations rather than original audit inspection groups. Surface Loadout rollout includes L1–L4 and Sample Conveyors 1–3.
