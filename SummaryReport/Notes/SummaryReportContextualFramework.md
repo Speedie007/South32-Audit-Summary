@@ -645,11 +645,11 @@ An integrated working draft has been started at:
 `SummaryReport/South32 Audit Summary Report - Working Draft.md`
 
 
-## Active Working Draft — V4
+## Active Working Draft — V5
 
 The active integrated report draft is:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V4.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V5.md`
 
 The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained as the V1 historical reference and `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` is retained as the V2 historical reference.
 
@@ -665,3 +665,15 @@ V4 preserves the V3 technical content but changes the order of the major technic
 3. Main Shaft Head Sheaves
 
 The Product Spillage subsections are correspondingly renumbered from 5.x to 3.x. Cable Belt remains Section 4. Main Shaft Head Sheaves becomes Section 5.
+
+
+### V5 fines / scraper rollout refinement
+
+V5 retains the V4 technical sequence and adds explicit Product Spillage scraper-rollout subsections for Underground, Surface Handling and Surface Loadout areas.
+
+The governing distinction remains:
+
+- fines/scraper control is a system-wide programme applied progressively at relevant discharge locations after CV09 proof and CV06 restoration/verification;
+- skirting is a separate, selective programme driven by coarse-product loss and local geometry.
+
+Site-identified surface rollout locations CV05, CV07, CV08, CV10, CV11, CV12 and CV13 are explicitly distinguished from the original issued-audit inspection groups.
