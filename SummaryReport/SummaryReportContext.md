@@ -246,3 +246,21 @@ The revised structure preserves the distinction between:
 - **side skirting** — selective implementation where coarse-product loss and local geometry justify it.
 
 CV09 remains the proof-of-concept location. CV06 is a restoration/verification case. CV05, CV07, CV08, CV10, CV11, CV12 and CV13 are recorded as site-identified rollout locations rather than original audit inspection groups. Surface Loadout rollout includes L1–L4 and Sample Conveyors 1–3.
+
+
+## 15. Formal Word Draft 1
+
+A semi-formal Word-formatted report has been generated from Working Draft V5 and stored under:
+
+`SummaryReport/final drafts/South32 Wessels Mine Technical Audit Summary - Draft 1.docx`
+
+The Word draft retains the V5 technical content and adds only the agreed document-formatting elements:
+
+- cover page based on the ISS/South32 visual language used in the detailed Product Spillage report;
+- compact document-control / issue-information block;
+- formal table of contents;
+- formatted header and footer with page numbering;
+- a concise `2.1 Source Reports / Reference Documents` subsection listing the five dedicated source reports;
+- semi-formal styling suitable for management and engineering review.
+
+The document is explicitly marked **Draft 1 / Draft for Review**. V5 remains the authoritative editable content baseline unless later Word-review changes are accepted back into the report context.
