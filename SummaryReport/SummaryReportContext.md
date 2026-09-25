@@ -218,8 +218,8 @@ Accepted high-level position:
 
 An integrated summary-report working draft has been created at:
 
-`SummaryReport/South32 Audit Summary Report - Working Draft V2.md`
+`SummaryReport/South32 Audit Summary Report - Working Draft V3.md`
 
-**Working Draft V2 is the active review draft.** The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained unchanged as the V1 historical reference.
+**Working Draft V3 is the active review draft.** The original `SummaryReport/South32 Audit Summary Report - Working Draft.md` is retained unchanged as the V1 historical reference, and `SummaryReport/South32 Audit Summary Report - Working Draft V2.md` is retained unchanged as the V2 historical reference.
 
-V2 separates the system-wide fines/scraper programme from the simplified skirting assessment and replaces the former overloaded eight-column matrix with short grouped tables using **Skirting Requirement Status**.
+V3 retains the simplified V2 fines/skirting structure and additionally replaces Section 5.1 **System Interpretation** with **Report Interpretation**, clarifying that the detailed Product Spillage report is a prioritised engineering narrative: the complete inspection scope was covered, while selected high-impact/reference locations were emphasized as initial implementation and verification points rather than the only locations relevant to later rollout.
